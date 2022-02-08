@@ -1,0 +1,44 @@
+{{ if .Site.Params.newsletter.enable }}
+{{ "<!-- Begin Mailchimp Signup Form -->" | safeHTML }}
+
+<section id="call-to-action">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <div class="block">
+                    {{ with .Site.Params.newsletter.title }}<h2 class="title wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">{{ . }}</h1>{{ end }}
+                    {{ with .Site.Params.newsletter.content }}<p class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">{{ . | safeHTML }}</p>{{ end }}
+                    <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7_dtp.css" rel="stylesheet" type="text/css">
+                    <style type="text/css">
+                      #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+                      /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+                         We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                    </style>
+                    <div id="mc_embed_signup">
+                    <form action="https://operasanxay.us9.list-manage.com/subscribe/post?u=8f366dc28cb49eff688ab434b&amp;id=01318c8b37" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <div id="mc_embed_signup_scroll">
+                      <label for="mce-EMAIL">Pour s'abonner à la newsletter</label>
+                      <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="saisissez votre adresse email" required>
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8f366dc28cb49eff688ab434b_01318c8b37" tabindex="-1" value=""></div>
+                            <div class="optionalParent">
+                                <div class="clear foot">
+                                    <input type="submit" value="Je m'abonne à la newsletter" name="subscribe" id="mc-embedded-subscribe" class="button">
+                                    <p class="brandingLogo"><a href="http://eepurl.com/hQnlCj" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="col-md-2"></div>
+
+        </div>
+    </div>
+</section>
+{{ "<!--End mc_embed_signup-->" | safeHTML }}
+{{ end }}

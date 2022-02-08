@@ -1,0 +1,35 @@
+enable  : true
+title   : Le bureau de l'association
+members  :
+  - name  : Philippe Bélaval
+    designation : Président
+    description : depuis 2018
+  
+  - name  : Mathieu Blugeon
+    designation : Président d'honneur
+    description : président de 2000 à 2017
+
+  - name  : Hélène Boyer-Julien
+    designation : Vice-présidente
+
+  - name  : René Gibault
+    designation : Vice-président
+
+  - name  : Gilles Grasset  
+    designation : Vice-président
+
+  - name  : Daniel Breton
+    designation : Trésorier
+
+  - name  : Nadège Fallourd
+    designation : Trésorier adjointe
+
+  - name  : Martine Schuster
+    designation : Secrétaire
+
+  - name  : Laëtitia Chaignault
+    designation : Secrétaire adjointe
+
+description: Vous pouvez adhérer à l'association et ainsi participer activement à la création des soirées lyriques de Sanxay. 
+  C'est très simple,
+  Il suffit d'[imprimer et compléter le bulletin d'adhésion](/documents/adhesion2021.pdf).

@@ -1,0 +1,133 @@
+#baseURL = "https://sls-beta.netlify.app"
+baseURL = "https://operasanxay.fr"
+languageCode = "en-us"
+title = "Soirées lyriques de Sanxay"
+theme = "timer-hugo"
+
+# disable language
+#disableLanguages = []
+DefaultContentLanguage = "fr"
+
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "Spectacles"
+url     = "portfolio"
+weight  = 1
+[[menu.main]]
+name    = "Partenaires"
+url     = "partners"
+weight  = 2
+[[menu.main]]
+name    = "Infos pratiques"
+url     = "practicals"
+weight  = 3
+[[menu.main]]
+name    = "Le festival"
+url     = "about"
+weight  = 4
+#[[menu.main]]
+#name    = "Contact"
+#url     = "contact"
+#weight  = 6
+
+# Site Params
+[params]
+home = "Accueil"
+logo = "images/logo-sls-rouge.jpg"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Soirées lyriques de Sanxay"
+author = "SLS"
+# Google Analitycs
+googleAnalitycsID = "UA-193135372-1"
+# contact form action
+#contactFormAction = "https://formspree.io/f/mzbybole" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "/images/portfolio/2022_barbier/2022_barbier_02.jpg"
+heading = "Le Barbier de Séville - édition 2022"
+description = "9, 11 et 13 août 2022"
+description2 = "Toute l'équipe des Soirées lyriques de Sanxay vous remercie pour votre fidélité et vous donne rendez-vous pour un Barbier incroyable, premier Rossini à Sanxay..."
+#alert = "Les Soirées Lyriques vous informent que le Pass sanitaire est obligatoire pour l'accès aux spectacles, conformément au décret gouvernemental. Aussi, il vous sera demandé de présenter impérativement un Pass sanitaire valide, accompagné d'une pièce d'identité. Plus de détails sur le site du gouvernement : https://www.gouvernement.fr/info-coronavirus/pass-sanitaire"
+# button
+btn     = true
+btnText = "Découvrir le casting"
+btnURL  = "/portfolio/2022_barbier/"
+# button
+btn2     = false
+btn2Text = "Acheter maintenant"
+btn2URL  = "https://my.weezevent.com/le-barbier-de-seville-1"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Découvrez la prochaine production"
+[[params.banner.flipText]]
+title   = "Découvrez les artistes"
+[[params.banner.flipText]]
+title   = "Soutenez l'association et les bénévoles"
+
+
+# Newsletter
+[params.newsletter]
+enable = false
+title  = "Être informé de l'actualité des Soirées lyriques"
+
+# Homepage About Section
+[params.about]
+enable  = false
+title   = "ABOUT ME"
+content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "Une question ?"
+content = "Vous souhaitez acheter une place ? Adhérer au comité de soutien ? Nous faire part de votre expérience ? Nous sommes à votre écoute."
+btnText = "Contactez-nous !"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Les productions de 2000 à aujourd'hui"
+subtitle= "Les soirées lyriques sont nées en 2000. De nombreuses oeuvres ont résonné dans le théatre gallo-romain de Sanxay. Replongez dans le passé..."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "https://fr-fr.facebook.com/operasanxay"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
+url = "https://twitter.com/operasanxay"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "https://instagram.com/soireeslyriquessanxay"
+
+[[params.socialIcon]]
+icon = "ion-social-youtube"
+url = "https://www.youtube.com/channel/UCldxuw4RRkmpXyUkw81F_Gw?view_as=subscriber"
+
+#[[params.socialIcon]]
+#icon = "ion-social-linkedin"
+#url = "#"
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+
+
+################################ France Language ########################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
