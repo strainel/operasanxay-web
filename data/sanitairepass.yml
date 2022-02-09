@@ -1,13 +1,13 @@
-enable : true
-title: Le pass sanitaire aux SLS
+enable : false
+title: Le pass vaccinal aux SLS
 subtitle: Information à destination de tous nos spectateurs
 image: images/tousanticovid.png
-details: "Le <b>pass sanitaire obligatoire dans les lieux ou événements</b> (stades, festivals
+details: "Le <b>pass vaccinal obligatoire dans les lieux ou événements</b> (stades, festivals
           parcs de loisirs, concerts, foires, salons et exposiitons) qui rassemblent 
           plus de 1 000 personnes <b>s'applique aux Soirées lyriques de Sanxay.</b>
           <br/><br/>
 
-          Le pass sanitaire se présente sous la forme d’un QR Code à importer dans l'application 
+          Le pass vaccinal se présente sous la forme d’un QR Code à importer dans l'application 
           Tousanticovid (rubrique « Attestations & Carnet », fonction « scanner le QR Code ») 
           ou à imprimer depuis le portail <a href='https://ameli.fr'>Ameli.fr</a>. <br/><br/>
 
@@ -30,9 +30,9 @@ details: "Le <b>pass sanitaire obligatoire dans les lieux ou événements</b> (s
           n'est conservée conformément à la réglementation sur la protection des données. 
           La CNIL a validé ce dispositif. <br/><br/>
 
-          <b>Un pass sanitaire non valide ne permet pas d'assister au spectacle. 
+          <b>Un pass vaccinal non valide ne permet pas d'assister au spectacle. 
           Aucun remboursement ne sera possible suite à une non présentation ou une non validité
-          du pass sanitaire. </b><br/><br/>
+          du pass vaccinal. </b><br/><br/>
 
-          Le pass sanitaire est présenté en détail sur le  
+          Le pass vaccinal est présenté en détail sur le  
           <a href='https://www.gouvernement.fr/info-coronavirus/pass-sanitaire'>site du gouvernement</a>."
