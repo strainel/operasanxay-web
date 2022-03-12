@@ -1,7 +1,7 @@
 ---
 title: "2022 : Le Barbier de Séville"
 type: portfolio
-date: 2021-11-27T11:59:54+01:00
+date: 2022-03-11T11:59:54+01:00
 caption: Gioachino Rossini
 image: images/portfolio/2022_barbier/2022_barbier_01.png
 category: ["opera","rossini"]
@@ -16,9 +16,10 @@ flyer: documents/flyer2022_noel.pdf
 
 Séville. XVIIIe siècle. 
 
-Figaro, joyeux barbier, entreprend d'aider le Comte Almaviva à conquérir Rosine. Rosine est troublée par les sérénades de son mystérieux soupirant, mais reste gardée par le vieux et jaloux Docteur Bartholo, qui compte bien l'épouser au plus vite. Figaro n’est pas à court d’idées pour faire capoter les projets du vieillard. La première tentative échoue. La deuxième réussie presque...
+Figaro, joyeux et insolent barbier, entreprend d’aider le Comte Almaviva, un grand d’Espagne dont il a été le serviteur, à conquérir la jeune orpheline Rosina. Rosina est troublée par les sérénades de son mystérieux soupirant, mais elle est tenue cloîtrée dans la maison de son tuteur, un vieux grigou, le docteur Bartholo qui, aidé du calculateur et rusé Basilio, compte bien épouser sa pupille au plus vite, non par amour, mais pour s’octroyer sa dot. Figaro n’est pas à court d’idées pour faire capoter les projets du vieillard. La première tentative échoue. La deuxième réussie presque...
 
 Billets, déguisements et situations abracadabrantes seront de mises pour déjouer le triste dessein du Docteur. L’amour triomphera-t-il encore ? 
+
 
 
 ### Equipe artistique
@@ -34,7 +35,7 @@ Billets, déguisements et situations abracadabrantes seront de mises pour déjou
 - Rosina : [Marina Viotti](/artists/marina_viotti/)
 - Berta : [Andreea Soare](/artists/andreea_soare/)
 - Figaro : [Florian Sempey](/artists/florian_sempey/)
-- Le Comte Almaviva : [Yaroslav Abaimov](/artists/yaroslav_abaimov/)
+- Le Comte Almaviva : [Santiago Ballerini](/artists/santiago_ballerini/)
 - Bartolo : [Paolo Bordogna](/artists/paolo_bordogna/)
 - Basilio : [Emanuele Cordaro](/artists/emanuele_cordaro/)
 - Fiorello : [Yoonsung Choi](/artists/yoonsung_choi/)

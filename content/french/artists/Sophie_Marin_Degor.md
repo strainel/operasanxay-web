@@ -18,7 +18,7 @@ Elle se produit dès l’âge de 12 ans au théâtre (TEP) avec Marcel Maréchal
 
 Promise à une carrière de comédienne et au répertoire de la comédie musicale qu’elle expérimente entre autres avec le metteur en scène Jean-Luc Tardieu, elle prend finalement la direction du répertoire lyrique et de la création contemporaine (Berio, Aperghis, Prey, etc.) entre autres à l’IRCAM et au festival Musica Strasbourg.
 
-A dix-huit ans, elle est choisie pour travailler deux années au sein de la Comédie Française dans Le Bourgeois gentilhomme de Molière mis en musique par Jean-Baptiste Lully et Esther de Racine mis en musique par Jean-Joseph Mouret puis c’est finalement le rôle de l’Amour, à 22 ans dans l’Orphée de Gluck au théâtre des Champs Elysées et aux côtés de Marilyn Horne qui lui ouvre les portes du répertoire Lyrique.
+À dix-huit ans, elle est choisie pour travailler deux années au sein de la Comédie Française dans Le Bourgeois gentilhomme de Molière mis en musique par Jean-Baptiste Lully et Esther de Racine mis en musique par Jean-Joseph Mouret puis c’est finalement le rôle de l’Amour, à 22 ans dans l’Orphée de Gluck au théâtre des Champs Elysées et aux côtés de Marilyn Horne qui lui ouvre les portes du répertoire Lyrique.
 
 Ses engagements l’ont amenée à se produire sur de nombreuses scènes françaises et internationales : Opéra Comique de Paris, Capitole de Toulouse, Opéras de Lyon, Saint-Etienne, Tours, Nice, Montpellier, Avignon, Bremen, Monte-Carlo, Nuremberg, Rome, Tel Aviv...
 
