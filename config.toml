@@ -74,7 +74,7 @@ title   = "Soutenez l'association et les bénévoles"
 
 # Newsletter
 [params.newsletter]
-enable = false
+enable = true
 title  = "Être informé de l'actualité des Soirées lyriques"
 
 # Homepage About Section
