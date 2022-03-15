@@ -7,9 +7,6 @@ role: Ténor
 liveLink: http://santiagoballerini.com
 submitDate: 
 show:
-  - role: Le Comte Almeviva
-    title: Le Barbier de Séville en 2022
-    url : /portfolio/2022_barbier/
 ---
 
 Santiago Ballerini est reconnu internationalement comme l'un des principaux ténors du répertoire belcantiste. Il débute sa carrière comme pianiste pendant 9 ans et comme musicothérapeute certifié.

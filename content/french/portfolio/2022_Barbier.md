@@ -35,7 +35,7 @@ Billets, déguisements et situations abracadabrantes seront de mises pour déjou
 - Rosina : [Marina Viotti](/artists/marina_viotti/)
 - Berta : [Andreea Soare](/artists/andreea_soare/)
 - Figaro : [Florian Sempey](/artists/florian_sempey/)
-- Le Comte Almaviva : [Santiago Ballerini](/artists/santiago_ballerini/)
+- Le Comte Almaviva : [Yaroslav Abaimov](/artists/yaroslav_abaimov/)
 - Bartolo : [Paolo Bordogna](/artists/paolo_bordogna/)
 - Basilio : [Emanuele Cordaro](/artists/emanuele_cordaro/)
 - Fiorello : [Yoonsung Choi](/artists/yoonsung_choi/)
