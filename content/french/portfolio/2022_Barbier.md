@@ -16,7 +16,7 @@ flyer: documents/flyer2022_noel.pdf
 
 Séville. XVIIIe siècle. 
 
-Figaro, joyeux et insolent barbier, entreprend d’aider le Comte Almaviva, un grand d’Espagne dont il a été le serviteur, à conquérir la jeune orpheline Rosina. Rosina est troublée par les sérénades de son mystérieux soupirant, mais elle est tenue cloîtrée dans la maison de son tuteur, un vieux grigou, le docteur Bartholo qui, aidé du calculateur et rusé Basilio, compte bien épouser sa pupille au plus vite, non par amour, mais pour s’octroyer sa dot. Figaro n’est pas à court d’idées pour faire capoter les projets du vieillard. La première tentative échoue. La deuxième réussie presque...
+Figaro, joyeux et insolent barbier, entreprend d’aider le Comte Almaviva, un grand d’Espagne dont il a été le serviteur, à conquérir la jeune orpheline Rosina. Rosina est troublée par les sérénades de son mystérieux soupirant, mais elle est tenue cloîtrée dans la maison de son tuteur, un vieux grigou, le docteur Bartolo qui, aidé du calculateur et rusé Basilio, compte bien épouser sa pupille au plus vite, non par amour, mais pour s’octroyer sa dot. Figaro n’est pas à court d’idées pour faire capoter les projets du vieillard. La première tentative échoue. La deuxième réussie presque...
 
 Billets, déguisements et situations abracadabrantes seront de mises pour déjouer le triste dessein du Docteur. L’amour triomphera-t-il encore ? 
 

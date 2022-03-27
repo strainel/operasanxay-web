@@ -1,48 +1,107 @@
 ---
-title: "Mentions légales"
+title: "Mentions légales et conditions de vente"
 type: 
 date: 
 image: 
 submitDate:
 ---
 
-## Association
+Le site www.operasanxay.fr est la propriété exclusive de l'association des Soirées Lyriques de Sanxay.
+
+# Mentions légales
+
+#### Association
 
 Soirées Lyriques de Sanxay
 4, route de Poitiers 86600 Sanxay
-Tél. 05 49 44 95 38
+Tél. : 05 49 44 95 38
 Fax : 05 49 03 28 45
-Courriel : soireeslyriques@wanadoo.fr
+Courriel : production@operasanxay.fr / communication@operasanxay.fr
 
 Association loi 1901
 Numéro licence entrepreneur : 2-142-587–3-142-588
 Siret : 429 730 450 00021
 Code NAF : 9001Z
 
-## Conception graphique, ergonomie et développement
+#### Conception graphique, ergonomie et développement
 
-Soirées Lyriques de Sanxay
-
-Design par [Themefisher](http://www.themefisher.com)
-
-Généré avec *Hugo* générateur de sites statiques
-
-## Vidéo
-
-Denis Victot
+Design par [Themefisher](http://www.themefisher.com) et généré avec *Hugo* générateur de sites statiques
 
 
-## Hébergement
+#### Hébergement
 
 OVH
 
 
-## Conditions de vente
+### Usages du site internet
+
+#### Informations disponinibles dans le site
+
+L'utilisateur du site www.operasanxay.fr reconnaît disposer des compétences et moyens nécessaires pour accéder et utiliser le site.
+
+L'association des Soirées Lyriques de Sanxay ne peut en aucun cas être tenue pour responsable des éléments échappant à son contrôle et des éventuels dommages qui pourraient être subis par l'environnement technique de l'utilisateur et notamment, ses ordinateurs, logiciels, équipements réseaux ou tout autre matériel utilisé pour accéder au site et utiliser ses services et informations.
+
+Il est rappelé que le fait d'accéder ou de se maintenir frauduleusement dans un système informatique, d'entraver ou de fausser le fonctionnement d'un tel système, d'introduire ou modifier frauduleusement des données dans un système informatique constitue des délits passibles de sanctions pénales.
+
+
+#### Propriété intellectuelle
+
+L'association des Soirées Lyriques de Sanxay est propriétaire et titulaire des droits de tous les éléments qui composent son site, dont les informations du festival, les photos, sauf mention contraire.
+
+Toute reproduction, représentation ou diffusion, totale ou partielle, du contenu de ce site par quelque procédé que ce soit, sans l'autorisation expresse et préalable de l'association des Soirées Lyriques de Sanxay est interdite et constituerait une contrefaçon sanctionnée par les articles L.335-2 et suivants du Code de la Propriété Intellectuelle.
+
+
+#### Contenu du site 
+
+L'association des Soirées Lyriques de Sanxay se réserve le droit de modifier à tout moment et sans préavis le contenu de son site.
+
+L'association des Soirées Lyriques de Sanxay s’efforce d’assurer l'exactitude et la véracité des informations mises à la disposition des utilisateurs sur son site, sachant que celles-ci peuvent cependant contenir des inexactitudes techniques ou des erreurs typographiques ou bien encore être incomplètes.
+
+L'association des Soirées Lyriques de Sanxay ne peut être tenue pour responsable de toute décision prise sur la base d'une information contenue sur le site, ni de l'utilisation qui pourrait en être faite par des tiers.
+
+
+#### Liens hypertextes 
+
+Les liens hypertextes présents sur le site www.operasanxay.fr font l’objet de vérifications régulières par le responsable de la communication. Toutefois, l’association des Soirées Lyriques de Sanxay, n'étant pas l'éditeur de ces sites, ne peut en contrôler le contenu. En conséquence, l'association des Soirées Lyriques de Sanxay ne peut en aucun cas être tenue pour responsable du contenu de ces sites ainsi accessibles, ou des éventuelles collectes et transmission de données personnelles, installation de cookies ou tout autre procédé tendant aux mêmes fins, effectués par ces sites.
+
+
+#### Données personnelles
+
+Le ministère des Soirées Lyriques de Sanxay s’engage à ce que la collecte et le traitement de vos données, effectués à partir du site www.operasanxay.fr, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
+
+Conformément à la loi du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, les personnes dont les données personnelles ont été collectées bénéficient d’un droit d’accès, de vérification, de modification, de rectification et de suppression de ces données.
+
+Ce droit peut être exercé par courriel via le formulaire de la page Contact ou par courrier à l’adresse suivante :
+Soirées Lyriques de Sanxay 4, route de Poitiers 86600 Sanxay.
+
+
+#### Crédits photo
+
+Se reporter aux mentions sur les photographies.
+
+
+#### Modification des mentions légales
+
+L'association des Soirées Lyriques de Sanxay se réserve le droit de modifier les présentes mentions à tout moment.
+L'utilisateur s'engage donc à les consulter régulièrement.
+
+#### Droit applicable en cas de litige
+
+Le droit applicable est le droit français.
+
+En cas de litige entre l'association des Soirées Lyriques de Sanxay et tout tiers du fait du présent site, la juridiction compétente sera celle dont ressort le siège social de l'association des Soirées Lyriques de Sanxay.
+
+
+
+# Conditions de vente
 
 #### Article 1 : Billetterie
-(1) L'envoi des billets par la poste s'arrête 8 jours avant la date de la représentation choisie. A partir de cette date, les billets sont à retirer au bureau de location ou à la billetterie à l'entrée le soir de la représentation.
+(1) L'envoi des billets par la Poste s'arrête 8 jours avant la date de la représentation choisie. À partir de cette date, les billets sont à retirer au bureau de location ou à la billetterie à l'entrée le soir de la représentation.
+
 (2) Les réservations ne deviennent définitives qu'après complet paiement et encaissement.
+
 (3) Les billets ne sont ni repris, ni échangés, ni remboursés même en cas de perte ou de vol. Il ne sera délivré aucun duplicata.
+
 (4) Tout tarif réduit ou jeune ne pourra être appliqué qu'en l'échange de la copie d'un justificatif à la réservation et de la présentation de ce justificatif pour l'accès au site.
 
 #### Article 2 : Report d'une représentation
