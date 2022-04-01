@@ -59,7 +59,7 @@ btn     = true
 btnText = "Découvrir le casting"
 btnURL  = "/portfolio/2022_barbier/"
 # button
-btn2     = false
+btn2     = true
 btn2Text = "Acheter maintenant"
 btn2URL  = "https://my.weezevent.com/le-barbier-de-seville-1"
 
