@@ -76,7 +76,7 @@ members:
     url   : http://www.loc4event.fr
   - image : images/partners/axa.png
     url   : 
-  - image : images/partners/toilettes_co.png
+  - image : images/partners/toilettes_co.gif
     url   : http://www.toilettesandco.com
   - image : images/partners/vw.png
     url   : 
@@ -115,9 +115,9 @@ members:
   - image : images/partners/lusignan.png
     url   : 
   - image : images/partners/rouille.png
-    url   : 
-  - image : images/partners/menigoute.png
-    url   : 
+    url   : https://www.rouille.fr
+  - image : images/partners/menigoute.jpg
+    url   : https://ville-menigoute.fr
   - image : images/partners/poitiers.png
     url   : 
   - image : images/partners/lesocle_formations.png
@@ -128,8 +128,8 @@ members:
     url   : https://melle.fr
   - image : images/partners/vivonne.jpg
     url   : https://www.vivonne.fr
-  - image : images/partners/cloderac.png
-    url   : 
+  - image : images/partners/clodejac.png
+    url   : https://www.clodejac.com
   - image : images/partners/centre_presse.png
     url   : https://www.centre-presse.fr
   - image : images/partners/francebleu_poitou.png
