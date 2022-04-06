@@ -17,6 +17,15 @@ flyer: documents/flyer2021.pdf
 À Séville, vers 1820, Carmen, la bohémienne cigarière, séduit Don José, le jeune brigadier. Elle n’aspire qu’à la liberté et à l’indépendance. Lui, fiancé, se plonge à corps perdu dans cette passion. Pour elle, il va délaisser sa promise, Micaëla, déserter et rejoindre la contrebande. Mais Carmen, « oiseau rebelle qui n’a jamais connu de loi », se lasse... et se laisse séduire par Escamillo, célèbre toréador. Fou de désespoir et de jalousie, Don José, pour récupérer son amour, va commettre l’irréparrable...
 
 
+&nbsp;
+
+
+{{< figure src="/images/portfolio/2021_carmen/2021_carmen_02.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2021_carmen/2021_carmen_03.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2021_carmen/2021_carmen_04.jpg" width="100%" >}}
+*Photos : Philippe Archambeau*
+
+
 ### Equipe artistique
 
 - Direction musicale : [Roberto Rizzi-Brignoli](/artists/roberto_rizzi/)
