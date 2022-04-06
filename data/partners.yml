@@ -1,6 +1,6 @@
 enable  : true
 title   : Les partenaires
-subtitle: Les gentils sponsors qui soutiennent la culture et aident notre association à produire chaque année un spectacle de grande qualité
+subtitle: Merci à nos gentils sponsors qui soutiennent la culture et aident notre association à produire chaque année un spectacle de grande qualité
 members:
   - image : images/partners/cmn.png
     url   : https://www.monuments-nationaux.fr
@@ -12,7 +12,7 @@ members:
 #    url   : https://www.deux-sevres.fr
   - image : images/partners/festival-deux-sevres.png
     url   : https://www.deux-sevres.fr/destination-deux-sevres/sortir/les-festivals-en-deux-sevres
-  - image : images/partners/grandpoitiers.png
+  - image : images/partners/grandpoitiers.svg
     url   : https://www.grandpoitiers.fr
   - image : images/partners/prefet_region.jpg
     url   : https://www.culture.gouv.fr/Regions/DRAC-Nouvelle-Aquitaine
@@ -36,7 +36,7 @@ members:
     url   : http://nuances-pianos.fr
   - image : images/partners/mutuelle_poitiers.png
     url   : https://agence.assurance-mutuelle-poitiers.fr/
-  - image : images/partners/futuroscope.png
+  - image : images/partners/futuroscope.svg
     url   : https://www.futuroscope.com/fr/
   - image : images/partners/sergies.png
     url   : https://www.sergies.fr
@@ -104,7 +104,7 @@ members:
     url   : http://www.sferebureautique.com
   - image : images/partners/landreau.png
     url   : http://www.landreau.fr
-  - image : images/partners/avocat_ten.png 
+  - image : images/partners/avocat_ten.svg
     url   : https://www.tenfrance.com
   - image : images/partners/groupama.jpg
     url   :
