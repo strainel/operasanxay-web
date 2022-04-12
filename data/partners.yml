@@ -120,8 +120,8 @@ members:
     url   : https://ville-menigoute.fr
   - image : images/partners/poitiers.png
     url   : 
-  - image : images/partners/lesocle_formations.png
-    url   : https://lesocle-formations.fr
+#  - image : images/partners/lesocle_formations.png
+#    url   : https://lesocle-formations.fr
   - image : images/partners/boivre.png
     url   : https://www.boivrelavallee.eu
   - image : images/partners/melle.png
