@@ -62,14 +62,14 @@ members:
     url   : https://www.citroen-civray.fr
   - image : images/partners/intermarche.png
     url   : https://www.intermarche.com
-  - image : images/partners/techstar86.png
-    url   : https://www.mercedes-benz-poitiers.fr
+#  - image : images/partners/techstar86.png
+#    url   : https://www.mercedes-benz-poitiers.fr
   - image : images/partners/securit_dog_man.png
     url   : https://www.securitdogman.com
   - image : images/partners/hotel_alteora.png
     url   : https://hotel-alteora-site-du-futuroscope.com
-  - image : images/partners/seat.png
-    url   : 
+#  - image : images/partners/seat.png
+#    url   : 
   - image : images/partners/blastrac.png
     url   : https://blastrac.fr
   - image : images/partners/loc_4_event.png
@@ -78,8 +78,8 @@ members:
     url   : 
   - image : images/partners/toilettes_co.gif
     url   : http://www.toilettesandco.com
-  - image : images/partners/vw.png
-    url   : 
+#  - image : images/partners/vw.png
+#    url   : 
   - image : images/partners/territoria_mutuelle.png
     url   : https://www.territoria-mutuelle.fr
   - image : images/partners/loirevision.jpg
@@ -134,6 +134,10 @@ members:
     url   : https://www.centre-presse.fr
   - image : images/partners/francebleu_poitou.png
     url   : https://www.radiofrance.fr/professionnels/regie-publicitaire/france-bleu?tag=poitou
+  - image : images/partners/bus_demelier.jpg
+    url   : https://www.autocars-demellier-tourisme.fr
+  - image : images/partners/hyundai.png
+    url   : https://www.hyundai.com/fr.html
 #  - image : images/partners/picoty.png
 #    url   : 
 #  - image : images/partners/2k16_prod.png
