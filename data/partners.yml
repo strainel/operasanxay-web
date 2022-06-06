@@ -50,8 +50,10 @@ members:
     url   : http://www.fondsmaifpourleducation.fr
   - image : images/partners/keldoc.png
     url   : 
-  - image : images/partners/emil_frey.png
-    url   : https://www.emilfrey.ch/fr/notre-entreprise/portrait-de-lentreprise
+  - image : images/partners/axyus.png
+    url   : https://axyus.com
+#  - image : images/partners/emil_frey.png
+#    url   : https://www.emilfrey.ch/fr/notre-entreprise/portrait-de-lentreprise
   - image : images/partners/lubicom.png
     url   : http://www.lubicom.fr/
   - image : images/partners/saveurs_creations.png
@@ -66,12 +68,12 @@ members:
 #    url   : https://www.mercedes-benz-poitiers.fr
   - image : images/partners/securit_dog_man.png
     url   : https://www.securitdogman.com
-  - image : images/partners/hotel_alteora.png
+  - image : images/partners/hotel_alteora.jpg
     url   : https://hotel-alteora-site-du-futuroscope.com
 #  - image : images/partners/seat.png
 #    url   : 
-  - image : images/partners/blastrac.png
-    url   : https://blastrac.fr
+#  - image : images/partners/blastrac.png
+#    url   : https://blastrac.fr
   - image : images/partners/loc_4_event.png
     url   : http://www.loc4event.fr
   - image : images/partners/axa.png
@@ -85,7 +87,7 @@ members:
   - image : images/partners/loirevision.jpg
     url   : https://www.loirevision.fr
   - image : images/partners/melon_haut_poitou.png
-    url   : 
+    url   : https://melon-hautpoitou.fr
   - image : images/partners/ampelidae.png
     url   : http://www.ampelidae.com/fr/
   - image : images/partners/max_musique.png
@@ -106,6 +108,10 @@ members:
     url   : http://www.landreau.fr
   - image : images/partners/avocat_ten.svg
     url   : https://www.tenfrance.com
+  - image : images/partners/petit_forestier.svg
+    url   : https://www.petitforestier.com/fr-fr
+  - image : images/partners/contival.png
+    url   : https://www.contival.fr/construction
   - image : images/partners/groupama.jpg
     url   :
   - image : images/partners/maison_clochard.png
@@ -143,7 +149,7 @@ members:
 #  - image : images/partners/2k16_prod.png
 #    url   : https://www.2k16prod.fr
 #  - image : images/partners/immo_g8.png
-#    url   : https://www.aurik.fr
+#    url   : 
 #  - image : images/partners/les_embruns.png
 #    url   : https://www.facebook.com/lesembrunsecaillerie/
 #  - image : images/partners/d4b.png
