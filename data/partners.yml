@@ -104,8 +104,10 @@ members:
     url   : 
   - image : images/partners/sfere.png
     url   : http://www.sferebureautique.com
-  - image : images/partners/landreau.png
-    url   : http://www.landreau.fr
+#  - image : images/partners/landreau.png
+#    url   : http://www.landreau.fr
+  - image : images/partners/jubert.jpg
+    url   : http://www.jubert.fr
 #  - image : images/partners/avocat_ten.svg
 #    url   : https://www.tenfrance.com
   - image : images/partners/petit_forestier.svg
