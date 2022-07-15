@@ -14,7 +14,7 @@ description: "**Les ventes ouvrent à partir du 1er avril 2022.** Pour réserver
               Si vous souhaitez un placement non numéroté, vous pouvez l'acheter directement en ligne
               (cliquez sur le bouton *acheter maintenant* plus bas, après les tarifs)."
 details: "Place numérotée : + 14 € - Frais de gestion (pour une même commande) : +3 € <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
-#link : "https://my.weezevent.com/le-barbier-de-seville-1"
+link : "https://my.weezevent.com/le-barbier-de-seville-1"
 pricing_table:
   # pricing table loop
   - name : "Orchestre centrale (1)"
