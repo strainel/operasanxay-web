@@ -26,7 +26,7 @@ Billets, déguisements et situations abracadabrantes seront de mises pour déjou
 
 - Direction musicale : [Marc Leroy-Calatayud](/artists/marc_leroy-calatayud/)
 - Mise en scène, scénographie et costumes : [Pierre-Emmanuel Rousseau](/artists/pierre-emmanuel_rousseau/)
-- Création lumière : -
+- Création lumière : [Gilles Gentner](/artists/gilles_gentner)
 - Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
 
 

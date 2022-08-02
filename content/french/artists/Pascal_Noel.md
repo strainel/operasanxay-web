@@ -3,7 +3,7 @@ title: "Pascal Noël"
 type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/pascal_noel.png
-role: Eclairage
+role: Lumières
 liveLink: 
 submitDate: 
 show:
