@@ -1,7 +1,7 @@
 ---
 title: "2022 : Le Barbier de Séville"
 type: portfolio
-date: 2022-03-11T11:59:54+01:00
+date: 2022-08-01T11:59:54+01:00
 caption: Gioachino Rossini
 image: images/portfolio/2022_barbier/2022_barbier_01.png
 category: ["opera","rossini"]

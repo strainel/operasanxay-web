@@ -1,9 +1,9 @@
 ---
-title: "2021 : SLS en itinérence"
+title: "2021 : SLS en itinérance"
 type: portfolio
 date: 2021-03-14T11:59:54+01:00
 caption: 
-image: images/portfolio/2021_itinerence/2021_prog_iti.jpg
+image: images/portfolio/2021_itinerance/2021_prog_iti.jpg
 category: []
 wikiLink: 
 submitDate:
@@ -12,9 +12,9 @@ created:
 flyer: 
 ---
 
-### Les concerts en itinérence
+### Les concerts en itinérance
 
-Cette année 2021, les Soirées lyriques de Sanxay proposent des **concerts en itinérence dans la Vienne et les Deux-Sèvres**.
+Cette année 2021, les Soirées lyriques de Sanxay proposent des **concerts en itinérance dans la Vienne et les Deux-Sèvres**.
 Ces concerts sont **gratuits** et permettent au public de rencontrer les artistes à l'issue de leur prestation, dans un moment convivial.
 En raison de la crise sanitaire, les places sont limitées et disponibles uniquement sur inscription préalable (par téléphone : 05 49 44 95 38 ou
 par mail : billetterie@operasanxay.fr)
