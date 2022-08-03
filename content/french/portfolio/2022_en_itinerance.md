@@ -3,7 +3,7 @@ title: "2022 : concerts itinérants"
 type: portfolio
 date: 2022-07-31T11:59:54+01:00
 caption: 
-image: images/portfolio/2022_itinerance/concerts_itinérants_sls2022.png
+image: images/portfolio/2022_itinerance/2022_concerts_itinerants_prog.png
 category: []
 wikiLink: 
 submitDate:
