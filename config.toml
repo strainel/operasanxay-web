@@ -52,7 +52,7 @@ enable  = true
 bgImage = "/images/portfolio/2022_barbier/2022_barbier_02.jpg"
 heading = "Le Barbier de Séville - édition 2022"
 description = "9, 11, 13 août 2022"
-description2 = "Toute l'équipe des Soirées Lyriques de Sanxay vous remercie pour votre fidélité et vous donne rendez-vous pour un Barbier incroyable, premier Rossini à Sanxay..."
+description2 = "Toute l'équipe des Soirées Lyriques de Sanxay vous remercie pour votre fidélité et vous donne rendez-vous pour un Barbier incroyable, le premier Rossini à Sanxay ! À partir de 20 euros"
 #alert = "Les Soirées Lyriques vous informent que le passe vaccinal est obligatoire pour l'accès aux spectacles, conformément au décret gouvernemental. Aussi, il vous sera demandé de présenter impérativement un passe vaccinal valide, accompagné d'une pièce d'identité. Plus de détails sur le site du gouvernement : https://www.gouvernement.fr/info-coronavirus/pass-sanitaire"
 # button
 btn     = true
