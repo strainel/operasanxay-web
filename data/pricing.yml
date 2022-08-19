@@ -2,7 +2,11 @@ enable : true
 title: Les tarifs des places
 subtitle: À chacun sa place !
 image: images/about/pricing.jpg
-description: "**Les ventes sont ouvertes !** Pour réserver une place, plusieurs possibilités.
+description: "**Les préventes pour Turandot - la production de l'édition 2023 - seront possibles pour Noël, à partir du 1er décembre !**
+              Encore un peu de patience.
+
+
+              Pour réserver une place, vous avez plusieurs possibilités.
 
 
               Si vous souhaitez un placement numéroté, 
@@ -14,8 +18,8 @@ description: "**Les ventes sont ouvertes !** Pour réserver une place, plusieurs
 
               Si vous souhaitez un placement non numéroté, vous pouvez l'acheter directement en ligne
               (cliquez sur le bouton *acheter maintenant* plus bas, après les tarifs)."
-details: "Place numérotée : + 14 € - Frais de gestion (pour une même commande) : +3 € <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
-link : "https://my.weezevent.com/le-barbier-de-seville-1"
+details: "Place numérotée : + 14 € <br/>Frais de gestion (pour une même commande) : + 3 € <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
+#link : "https://my.weezevent.com/le-barbier-de-seville-1"
 pricing_table:
   # pricing table loop
   - name : "Orchestre centrale (1)"

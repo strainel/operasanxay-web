@@ -1,30 +1,30 @@
 enable  : true
-title   : Création des soirées lyriques de Sanxay en 1999
+title   : Origine du festival
 description: >
-  C’est dans le cadre du programme "Défi-Jeunes" que Christophe Blugeon, l’actuel directeur artistique du festival,
-  fait naître le projet de réanimation du théâtre gallo-romain de Sanxay.
-  Séduit par le charme évident de ce théâtre et par son acoustique exceptionnelle, il décide d’y programmer, chaque été,
-  des opéras du grand répertoire.
-  <br>
-  <br>
-  Dès 2000, année de la première édition avec <i>Rigoletto</i>, le succès est immédiat.
-  <br>
-  <br>
-  Avec près de 153 000 entrées en 20 ans, le festival des Soirées Lyriques de Sanxay est aujourd'hui la 
-  <b>troisième manifestation d’art lyrique en France</b>, après le festival d’Aix-en-Provence et les Chorégies d’Orange.
+  C’est en 1999, dans le cadre du programme <i>"Défi-Jeunes"</i>, que Christophe Blugeon, actuel directeur artistique du festival,
+  fait naître son projet d'art lyrique en plein coeur de la Vienne, dans un site unique historique : 
+  le théâtre gallo-romain de Sanxay.
+  Séduit par le charme et l'acoustique exceptionnelle de ce théâtre, il imagine y programmer, chaque été,
+  des opéras du grand répertoire.<br><br>
+  En 2000, après avoir rassemblé autour de lui de nombreux bénévoles et mécènes convaincus de l'intérêt du projet, 
+  <i>Rigoletto</i> est joué devant un public ravi. Cette première édition est un succès !<br><br>
+  Depuis, chaque année, c'est une fourmillière de près de 250 bénévoles qui s'active tout l'été pour proposer une 
+  nouvelle production et des artistes internationaux.
+  <b>Avec près de 160 000 entrées en 22 ans, le festival des Soirées Lyriques de Sanxay est devenu une scène
+  incourtournable de l'art lyrique en France.</b>
 
 image   : images/about/sanxay-scene.jpg
 aboutItem:
-  - title : La démocratisation de l’opéra
+  - title : Démocratiser l’opéra
     description: > 
       Saviez-vous que la région Poitou-Charentes est la seule de France à ne pas avoir d’opéra permanent ?
-      <br><br>Pourtant, chaque année, en août, les Soirées Lyriques de Sanxay enrichissent l'offre culturelle 
-      de la région Poitou-Charentes 
-      et portent l'art lyrique auprès d'un public varié, venu de la France entière 
-      et de la région, dont beaucoup découvrent l’opéra pour la première fois.
-      Les prix des places sont de deux à trois fois inférieurs à ceux pratiqués par d'autres festivals.
+      <br><br>Chaque année, en août, les Soirées Lyriques de Sanxay enrichissent l'offre culturelle 
+      de la région Nouvelle-Aquitaine
+      et portent l'art lyrique auprès d'un public varié, venu de la Vienne, des Deux-Sèvres, mais aussi
+      de la France entière. C'est l'occasion pour beaucoup d'entre eux de découvrir l’opéra pour la première fois.
+      Les prix des places débutent à 20 euros et sont de deux à trois fois inférieurs à ceux pratiqués par d'autres festivals.
 
-  - title : Le projet pédagogique
+  - title : Créer des vocations avec un projet pédagogique
     description: > 
       En collaboration avec la direction des services départementaux de l'éducation nationale, des artistes lyriques 
       et metteurs en scène interviennent dans des écoles, collèges et lycées de la région, afin d’initier 
@@ -34,13 +34,15 @@ aboutItem:
       aux côtés d'artistes professionnels chevronnés aux Soirées Lyriques de Sanxay créant ainsi 
       une transmission des savoirs entre générations.
 
-  - title : La valorisation du patrimoine
+  - title : Valoriser le patrimoine
     description: > 
-      Les soirées lyriques se sont installées dans un cadre historique, isolé, magique et à l'accoustique
-      exceptionnelle : le site gallo-romain de Sanxay.
-      L’association, le Centre des monuments nationaux et la Direction régionale des affaires culturelles participent à faire 
-      revivre le théâtre, qui pouvait accueillir 6600 spectateurs.
-      Vous pouvez visiter le site gallo-romain, les thermes et le temple avec un tarif réduit sur simple présentation 
-      de votre billet opéra.
+      Les Soirées Lyriques de Sanxay se sont installées dans un cadre historique, inédit, inscirt dans l'Histoire et 
+      dont l'accoustique est
+      exceptionnelle : le théâtre gallo-romain de Sanxay.
+      Le Centre des monuments nationaux, la Direction régionale des affaires culturelles et l'association des Soirées
+      Lyriques de Sanxay participent à faire 
+      revivre ce théâtre antiq  ue, qui pouvait accueillir jusqu'à 6600 spectateurs.
+      Vous pouvez visiter le site gallo-romain, les thermes et le temple, avec un tarif réduit sur présentation 
+      de votre billet d'opéra.
       <br><br>Contactez l'accueil du site (05 49 53 61 48) ou visitez
       <a href="http://www.sanxay.fr">la page web du site gallo-romain de Sanxay</a> pour connaître les horaires d'ouverture.

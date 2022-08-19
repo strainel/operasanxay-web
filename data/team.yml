@@ -1,5 +1,20 @@
 enable  : true
-title   : Le bureau de l'association
+title   : L'association des Soirées Lyriques de Sanxay
+description: L'association a été créée en 1999 pour organiser chaque année une oeuvre lyrique dans le théâtre 
+  gallo-romain de Sanxay.
+  **Vous souhaitez apporter votre aide ?**
+  Alors n'hésitez pas... rejoignez-nous ! L'association recherche et accueille chaque année de nouveaux bénévoles.
+  En adhérant à l'association, vous illustrez votre attachement au festival, vous encouragez les prochaines éditions et
+  vous participez à la vie de l'association. **Comment adhérer ?** C'est très simple.
+  Il suffit d'[imprimer et compléter le bulletin d'adhésion](/documents/adhesion2021.pdf) sans oublier 
+  la (légère) cotisation de 7 euros.
+
+
+  Les membres adhérents de l'association sont réunis chaque année lors de l'Assemblée Générale annuelle pour 
+  faire le bilan de la dernière production, acter la prochaine production et élire les nouveaux administrateurs 
+  formant le Conseil d'administration.
+title2  : Le bureau
+details: Le bureau est élu chaque année par le Conseil d'administration.
 members  :
   - name  : Philippe Bélaval
     designation : Président
@@ -29,11 +44,3 @@ members  :
 
   - name  : Laëtitia Chaignault
     designation : Secrétaire adjointe
-
-description: Vous pouvez adhérer à l'association des Soirées Lyriques de Sanxay. Pourquoi faire ?
-  Pour illustrer votre attachement aux Soirées Lyriques.
-  Pour encourager les prochaines éditions.
-  Pour participer à la vie de l'association.
-  C'est très simple.
-  Il suffit d'[imprimer et compléter le bulletin d'adhésion](/documents/adhesion2021.pdf) sans oublier 
-  la cotisation de 7 euros. 
