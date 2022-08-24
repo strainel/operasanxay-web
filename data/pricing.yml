@@ -1,53 +1,39 @@
 enable : true
 title: Les tarifs des places
 subtitle: À chacun sa place !
-image: images/about/pricing.jpg
-description: "**Les préventes pour Turandot - la production de l'édition 2023 - seront possibles pour Noël, à partir du 1er décembre !**
-              Encore un peu de patience.
-
-
-              Pour réserver une place, vous avez plusieurs possibilités.
-
-
-              Si vous souhaitez un placement numéroté, 
-              vous pouvez nous appeler au 05.49.44.95.38 
-              ou nous laisser un [mail / courriel](mailto:billetterie@operasanxay.fr). À partir du 16 juillet inclus,
-              le bureau de l'association
-              est ouvert tous les jours de 9h30 à 17h30.
-
-
-              Si vous souhaitez un placement non numéroté, vous pouvez l'acheter directement en ligne
-              (cliquez sur le bouton *acheter maintenant* plus bas, après les tarifs)."
-details: "Place numérotée : + 14 € <br/>Frais de gestion (pour une même commande) : + 3 € <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
+#image: images/about/pricing.jpg
+description: "**Les préventes pour la production de l'édition 2023 seront possibles pour Noël, à partir du 1er décembre !**
+              Les modalités vous seront communiquées prochainement. Encore un peu de patience."
+#details: "Place numérotée : + 14 € <br/>Frais de gestion (pour une même commande) : + 3 € <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
 #link : "https://my.weezevent.com/le-barbier-de-seville-1"
-pricing_table:
+#pricing_table:
   # pricing table loop
-  - name : "Orchestre centrale (1)"
-    price: "80 €"
-    content : "Idéal pour être proche et face à la scène"
-    link : ""
-    services :
-      - "Tarif réduit : 72 €"
-      - "Tarif jeune : 40 €"
+#  - name : "Orchestre centrale (1)"
+#    price: "80 €"
+#    content : "Idéal pour être proche et face à la scène"
+#    link : ""
+#    services :
+#      - "Tarif réduit : 72 €"
+#      - "Tarif jeune : 40 €"
 
-  - name : "Orchestre latérale (2)"
-    price: "60 €"
-    content : "Parfait pour être proche de la scène"
-    link : ""
-    services:
-      - "Tarif réduit : 54 €"
-      - "Tarif jeune : 30 €"
+#  - name : "Orchestre latérale (2)"
+#    price: "60 €"
+#    content : "Parfait pour être proche de la scène"
+#    link : ""
+#    services:
+#      - "Tarif réduit : 54 €"
+#      - "Tarif jeune : 30 €"
       
-  - name : "Gradin (3)"
-    price: "62 €"
-    content : "Admirable pour voir la scène avec un peu de hauteur"
-    link : ""
-    services:
-      - "Tarif réduit : 56 €"
-      - "Tarif jeune : 31 €"
+#  - name : "Gradin (3)"
+#    price: "62 €"
+#    content : "Admirable pour voir la scène avec un peu de hauteur"
+#    link : ""
+#    services:
+#      - "Tarif réduit : 56 €"
+#      - "Tarif jeune : 31 €"
       
-  - name : "Promenoir gazon (4)"
-    price: "20 €"
-    content : "Unique pour pique-niquer et profiter d'une vue exceptionnelle de la scène (**places non accessibles aux personnes à mobilité réduite**)"
-    link : ""
-    services:
+#  - name : "Promenoir gazon (4)"
+#    price: "20 €"
+#    content : "Unique pour pique-niquer et profiter d'une vue exceptionnelle de la scène (**places non accessibles aux personnes à mobilité réduite**)"
+#    link : ""
+#    services:
