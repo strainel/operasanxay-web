@@ -4,9 +4,12 @@ type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/florian_sempey_by_harcourt.png
 role: Baryton
-liveLink: 
+operabase: https://www.operabase.com/artists/florian-sempey-5565/fr
 submitDate: 
 show:
+  - role: Don Giovanni
+    title: Don Giovanni en 2023
+    url : /portfolio/2023_dongiovanni/
   - role: Figaro
     title: Le Barbier de Séville en 2022
     url : /portfolio/2022_barvier/

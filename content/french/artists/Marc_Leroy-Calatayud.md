@@ -2,11 +2,15 @@
 title: "Marc Leroy-Calatayud"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/marc_leroy-calatayud.jpg
+image: images/artists/marc_leroy-calatayud-2.jpg
 role: Direction musicale
 liveLink: https://www.marcleroycalatayud.ch/
+operabase: https://www.operabase.com/artists/marc-leroy-calatayud-73097/fr
 submitDate: 
 show:
+  - role: Direction musicale
+    title: Don Giovanni en 2023
+    url : /portfolio/2023_dongiovanni/
   - role: Direction musicale
     title: Le Barbier de Séville en 2022
     url : /portfolio/2022_barbier/

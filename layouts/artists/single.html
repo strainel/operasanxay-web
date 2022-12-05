@@ -42,8 +42,11 @@
                     {{ with .Params.role }}
                     <h5>{{ . }}</h5>
                     {{ end }}
+                    {{ with .Params.operabase }}
+                    <h6><i><a href="{{ . }}">Fiche OpéraBase</a></i></h6>
+                    {{ end }}
                     {{ with .Params.liveLink }}
-                    <h6>Site pro : <a href="{{ . }}">{{ .}}</a></h6>
+                    <h6><i><a href="{{ . }}">Site pro</a></i></h6>
                     {{ end }}
                     <h5>À Sanxay</h5>
                     <ul>

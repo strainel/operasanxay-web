@@ -7,6 +7,9 @@ role: Soprane
 liveLink: 
 submitDate: 
 show:
+  - role: Zerlina
+    title: Don Giovanni en 2023
+    url : /portfolio/2023_dongiovanni/
   - role: Frasquita
     title: Carmen en 2021
     url : /portfolio/2021_carmen/

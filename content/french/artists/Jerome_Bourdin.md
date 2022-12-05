@@ -4,9 +4,12 @@ type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/jerome_bourdin.jpg
 role: Costume, designer et scénographe
-liveLink: 
+operabase: https://www.operabase.com/artists/jerome-bourdin-20317/fr
 submitDate: 
 show:
+  - role: Scénographie et costumes
+    title: Don Giovanni en 2023
+    url : /portfolio/2023_dongiovanni/
   - role: Scénographie
     title: Carmen en 2021
     url : /portfolio/2021_aida/

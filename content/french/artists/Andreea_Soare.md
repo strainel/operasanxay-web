@@ -4,9 +4,12 @@ type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/andreea_soare.png
 role: Soprano
-liveLink: 
+operabase: https://www.operabase.com/artists/andreea-soare-973/fr
 submitDate: 
 show:
+  - role: Donna Elvira
+    title: Don Giovanni en 2023
+    url : /portfolio/2023_dongiovanni/
   - role: Berta
     title: Le Barbier de Séville en 2022
     url : /portfolio/2022_barbier/
@@ -14,6 +17,8 @@ show:
     title: La flûte enchantée en 2017
     url : /portfolio/2017_flute/
 ---
+
+_Photo : © Jean-Pierre Ronnay_
 
 La soprano franco-roumaine Andreea Soare est diplômée en musicologie à l’Université de Strasbourg. Elle se perfectionne en chant au Conservatoire national supérieur de musique de Paris. Elle a participé aux master classes dirigées par Marc Minkowski, Jean-Philippe Lafont, Leontina Vaduva, June Anderson, Ann Murray, Natalie Dessay, Eva Podles, Maryse Castets, Jeff Cohen etc…
 

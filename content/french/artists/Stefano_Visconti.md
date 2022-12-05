@@ -4,9 +4,18 @@ type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/stefano_visconti_2.jpg
 role: Chef de choeur
-liveLink: 
+operabase: https://www.operabase.com/artists/stefano-visconti-20659/fr
 submitDate: 
 show:
+  - role: Chef de choeur
+    title: Don Giovanni en 2023
+    url : /portfolio/2023_dongiovanni/
+  - role: Chef de choeur
+    title: Le Barbier de Séville en 2022
+    url : /portfolio/2022_barbier/
+  - role: Chef de choeur
+    title: Carmen en 2021
+    url : /portfolio/2021_carmen/
   - role: Chef de choeur
     title: Aïda en 2019
     url : /portfolio/2019_aida/

@@ -4,9 +4,12 @@ type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/jean-christophe_mast.jpg
 role: Mise en scène
-liveLink: 
+operabase: https://www.operabase.com/artists/jean-christophe-mast-26285/fr
 submitDate: 
 show:
+  - role: Mise en scène
+    title: Don Giovanni en 2023
+    url : /portfolio/2023_dongiovanni/
   - role: Mise en scène
     title: Carmen en 2021
     url : /portfolio/2021_carmen/  
