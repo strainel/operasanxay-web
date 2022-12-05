@@ -43,6 +43,24 @@
 
 {{ partial "team.html" . }}
 
+{{ "<!-- Company Description Section Start -->" | safeHTML }}
+<section class="company-description">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    {{ with .Site.Data.cer.title }}<h3 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">{{ . }}</h3>{{ end }}
+                    {{ with .Site.Data.cer.description }}
+                    <p class="wow fadeInUp" data-wow-delay=".5s" data-wow-duration="500ms">
+                        {{ . | safeHTML }}
+                    </p>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 {{ partial "newsletter.html" . }}
 
 {{ partial "clients.html" . }}
