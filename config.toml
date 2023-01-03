@@ -62,7 +62,7 @@ btn     = true
 btnText = "Découvrir le casting"
 btnURL  = "/portfolio/2023_dongiovanni/"
 # button
-btn2     = true
+btn2     = false
 btn2Text = "Acheter maintenant"
 btn2URL  = "https://my.weezevent.com/donjuan2023"
 
