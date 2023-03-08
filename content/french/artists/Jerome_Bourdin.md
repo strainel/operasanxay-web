@@ -12,7 +12,7 @@ show:
     url : /portfolio/2023_dongiovanni/
   - role: Scénographie
     title: Carmen en 2021
-    url : /portfolio/2021_aida/
+    url : /portfolio/2021_carmen/
   - role: Scénographie
     title: Aïda en 2019
     url : /portfolio/2019_aida/
