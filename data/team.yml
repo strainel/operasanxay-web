@@ -2,23 +2,38 @@ enable  : true
 title   : L'association des Soirées Lyriques de Sanxay
 description: L'association a été créée en 1999 pour organiser chaque année une oeuvre lyrique dans le théâtre 
   gallo-romain de Sanxay.
+
+
   **Vous souhaitez apporter votre aide ?**
-  Alors n'hésitez pas... rejoignez-nous ! L'association recherche et accueille chaque année de nouveaux bénévoles.
-  En adhérant à l'association, vous illustrez votre attachement au festival, vous encouragez les prochaines éditions et
-  vous participez à la vie de l'association. **Comment adhérer ?** C'est très simple.
+
+
+  Alors rejoignez-nous ! L'association recherche et accueille chaque année de nouveaux membres bénévoles.
+  En adhérant à l'association, vous montrez votre attachement au festival, à l'art lyrique et 
+  au patrimoine. Votre aide sera précieuse pour préparer la prochaine édition et
+  participer à la vie de l'association.
+
+
+  **Comment adhérer ?**
+  
+
+  C'est très simple.
   Il suffit d'[imprimer et compléter le bulletin d'adhésion](/documents/adhesion2021.pdf) sans oublier 
-  la (légère) cotisation de 7 euros.
+  la (très légère) les 7 euros de cotisation annuelle.
 
 
-  Les membres adhérents de l'association sont réunis chaque année lors de l'Assemblée Générale annuelle pour 
-  faire le bilan de la dernière production, acter la prochaine production et élire les nouveaux administrateurs 
+  Les adhérents de l'association sont réunis chaque année en Assemblée Générale pour 
+  faire le bilan de la dernière production, valider la prochaine production et élire les administrateurs 
   formant le Conseil d'administration.
+
+
+  L'association a été présidée par Mathieu Blugeon, de 2000 à 2017, par Philippe Bélaval de 2018 à 2022 
+  et Dominique Hummel depuis 2023.
 title2  : Le bureau
 details: Le bureau est élu chaque année par le Conseil d'administration.
 members  :
-  - name  : Philippe Bélaval
+  - name  : Dominique Hummel
     designation : Président
-    description : depuis 2018
+    description : depuis 2023
   
   - name  : Mathieu Blugeon
     designation : Président d'honneur
@@ -39,7 +54,7 @@ members  :
   - name  : Nadège Fallourd
     designation : Trésorier adjointe
 
-  - name  : Martine Schuster
+  - name  : --
     designation : Secrétaire
 
   - name  : Laëtitia Chaignault
