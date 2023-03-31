@@ -67,14 +67,16 @@ btn2Text = "Acheter maintenant"
 btn2URL  = "https://my.weezevent.com/donjuan2023"
 
 # flip text
-#[[params.banner.flipText]]
-#title   = "Découvrez la prochaine production"
-#[[params.banner.flipText]]
-#title   = "Découvrez les artistes"
 [[params.banner.flipText]]
-title   = "La nouvelle production ?"
+title   = "Découvrez la production inédite à Sanxay"
 [[params.banner.flipText]]
-title   = "Encore un peu de patience !"
+title   = "Découvrez les artistes"
+#[[params.banner.flipText]]
+#title   = "La nouvelle production ?"
+#[[params.banner.flipText]]
+#title   = "Encore un peu de patience !"
+[[params.banner.flipText]]
+title   = "Don Giovanni - Mozart"
 [[params.banner.flipText]]
 title   = "Soutenez l'association et les bénévoles"
 
@@ -82,7 +84,7 @@ title   = "Soutenez l'association et les bénévoles"
 # Newsletter
 [params.newsletter]
 enable = true
-title  = "Être informé de l'actualité des Soirées lyriques"
+title  = "Être informé de l'actualité des Soirées Lyriques"
 
 # Homepage About Section
 [params.about]
