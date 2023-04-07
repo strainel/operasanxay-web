@@ -92,7 +92,7 @@ members:
     url   : http://www.ampelidae.com/fr/
   - image : images/partners/max_musique.png
     url   : 
-  - image : images/partners/drouineau.png
+  - image : images/partners/drouineau.jpg
     url   : https://www.drouineau1927.fr
   - image : images/partners/goulibeur.png
     url   : https://www.goulibeur.com
@@ -108,6 +108,10 @@ members:
 #    url   : http://www.landreau.fr
   - image : images/partners/jubert.jpg
     url   : http://www.jubert.fr
+  - image : images/partners/fabrix.png
+    url   : https://fabrix.fr
+  - image : images/partners/brings_vrignaud.png
+    url   : https://www.brings.fr/conseiller/nathalie.vrignaud,177
 #  - image : images/partners/avocat_ten.svg
 #    url   : https://www.tenfrance.com
   - image : images/partners/petit_forestier.svg
@@ -127,7 +131,7 @@ members:
   - image : images/partners/menigoute.jpg
     url   : https://ville-menigoute.fr
   - image : images/partners/poitiers.png
-    url   : 
+    url   : https://www.poitiers.fr
 #  - image : images/partners/lesocle_formations.png
 #    url   : https://lesocle-formations.fr
   - image : images/partners/boivre.png
