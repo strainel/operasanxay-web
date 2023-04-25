@@ -38,7 +38,7 @@ pricing_table:
       - "Tarif jeune : 37 €, 30 € pn / 22 € pl"
 
       
-  - name : "Promenoir gazon (4)"
+  - name : "Promenoir gazon"
     price: "22 €"
     content : "Unique pour pique-niquer et profiter d'une vue exceptionnelle de la scène (**places non accessibles aux personnes à mobilité réduite**)"
 #    link : ""
