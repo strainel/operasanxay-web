@@ -10,7 +10,7 @@ details: "PN = Place numérotée. PL = Placement libre. <br/> Tarif réduit pour
 link : "https://my.weezevent.com/donjuan2023"
 pricing_table:
   # pricing table loop
-  - name : "Orchestre centrale (1)"
+  - name : "Orchestre centrale"
     price: "à partir de 84 €"
     content : "Idéal pour être proche et face à la scène"
 #    link : ""
@@ -18,17 +18,8 @@ pricing_table:
       - "Plein tarif : 98 € pn / 84 € pl"
       - "Tarif réduit : 88 € pn / 76 € pl"
       - "Tarif jeune : 49 € pn / 42 € pl"
-
-  - name : "Orchestre latérale (2)"
-    price: "à partir de 44 €"
-    content : "Parfait pour être proche de la scène"
-#    link : ""
-    services:
-      - "Plein tarif : 74 €, 60 € pn / 44 € pl"
-      - "Tarif réduit : 67 €, 54 € pn / 40 € pl"
-      - "Tarif jeune : 37 €, 30 € pn / 22 € pl"
       
-  - name : "Gradin (3)"
+  - name : "Gradin"
     price: "à partir de 66 €"
     content : "Admirable pour voir la scène avec un peu de hauteur"
 #    link : ""
@@ -36,6 +27,16 @@ pricing_table:
       - "Plein tarif : 80 € pn / 66 € pl"
       - "Tarif réduit : 72 € pn / 59 € pl"
       - "Tarif jeune : 40 € pn / 33 € pl"
+
+  - name : "Orchestre latérale"
+    price: "à partir de 44 €"
+    content : "Parfait pour être proche de la scène"
+#    link : ""
+    services:
+      - "Plein tarif : 74 €, 60 € pn / 44 € pl"
+      - "Tarif réduit : 67 €, 54 € pn / 40 € pl"
+      - "Tarif jeune : 37 €, 30 € pn / 22 € pl"
+
       
   - name : "Promenoir gazon (4)"
     price: "22 €"
