@@ -28,7 +28,8 @@ jobs:
                   command: |
                       cd /home/circleci/project/sls-web
                       mkdir ~/.ssh/ && echo -e "Host *\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
-                      lftp sftp://${DEPLOY_USER}:${DEPLOY_PASSWORD}@${DEPLOY_HOST} -e "mirror -R public/ public ; quit"
+                      #lftp sftp://${DEPLOY_USER}:${DEPLOY_PASSWORD}@${DEPLOY_HOST} -e "mirror -R public/ public ; quit"
+                      lftp -c "set sftp:auto-confirm yes ; open -u ${DEPLOY_USER},${DEPLOY_PASSWORD} sftp://${DEPLOY_HOST} ; mirror -e -R -p public/ public ; quit"
 workflows:
     version: 2
     dev:
