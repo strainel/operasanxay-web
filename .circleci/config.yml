@@ -2,7 +2,7 @@ version: 2
 jobs:
     process-and-publish:
         docker:
-            - image: 139bercy/bh-hugo
+            - image: klakegg/hugo:0.107.0-ext-ubuntu
         steps:
             - run:
                   name: Installation des prérequis
