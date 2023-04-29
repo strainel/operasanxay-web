@@ -30,6 +30,7 @@ Après être passé entre les mailles des filets, non sans s’en être délect�
 - Direction musicale : [Marc Leroy-Calatayud](/artists/marc_leroy-calatayud/)
 - Mise en scène : [Jean-Christophe Mast](/artists/jean-christophe_mast/)
 - Scénographie et costumes : [Jérôme Bourdin](/artists/jerome_bourdin/)
+- Création lumières : Pascal Noël
 - Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
 
 
