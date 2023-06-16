@@ -37,7 +37,7 @@ Après être passé entre les mailles des filets, non sans s’en être délect�
 ### Distribution
 
 - Don Giovanni : [Florian Sempey](/artists/florian_sempey/)
-- Donna Anna : [Gilda Fiume](/artists/gilda_fiume/)
+- Donna Anna : [Klara Kolonits](/artists/klara_kolonits/)
 - Leporello : [Adrian Sampetrean](/artists/adrian_sampetrean/)
 - Donna Elvira : [Andreea Soare](/artists/andreea_soare/)
 - Don Ottavio : [Granit Musliu](/artists/granit_musliu/)
