@@ -76,10 +76,12 @@ members:
 #    url   : https://blastrac.fr
   - image : images/partners/loc_4_event.png
     url   : http://www.loc4event.fr
+  - image : images/partners/toyota_touzalin.jpg
+    url   : https://toyota-occasions-poitiers.espacevo.fr
   - image : images/partners/axa.png
     url   : 
   - image : images/partners/toilettes_co.gif
-    url   : http://www.toilettesandco.com
+    url   : https://www.toilettesandco.com
 #  - image : images/partners/vw.png
 #    url   : 
   - image : images/partners/territoria_mutuelle.png
