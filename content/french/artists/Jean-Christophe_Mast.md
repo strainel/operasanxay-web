@@ -18,34 +18,23 @@ show:
     url : /portfolio/2019_aida/
 ---
 
-Jean-Christophe Mast a suivi des études littéraires et théâtrales. 
-C'est en tant qu'assistant à la mise en scène d'Antoine Bourseiller qu'il fait ses premiers pas dans le monde de l'opéra 
-(*Dialogues des Carmélites* à l'opéra de Nancy).
+Né en 1967, Jean-Christophe Mast est metteur en scène et assistant à la mise en scène au théâtre et à l’opéra. C’est sa rencontre avec Antoine Bourseiller qui lui ouvre les portes de l’Opéra de Nancy en 1993. Il y débute comme assistant pour les Dialogues des Carmélites. Ils travailleront ensemble aussi bien au théâtre (*Le Bagne*, *Notre-Dame des Fleurs*, *l’Oiseau de lune*) qu’à l’opéra (*Lohengrin*, *Billy Budd*, *Don Giovanni*, *Wozzeck*, *Carmen*...).
 
-Par la suite, il assistera très souvent Antoine Bourseiller aussi bien au théâtre (*Le Bagne*, *Notre-Dame des Fleurs*, 
-*Lorenzaccio*) qu’à l’opéra (*Lohengrin*, *Billy Budd*, *Don Giovanni*, *Wozzeck*, *Carmen*...). 
-À partir de 2001, il collabore également avec Charles Roubaud sur de nombreux ouvrages tels que *Rigoletto* 
-aux arènes de Vérone, *Don Carlos*, *Nabucco*, *Aïda* aux Chorégies d’Orange, *La Traviata* au théâtre Marinsky 
-de Saint Petersbourg, *Lakmé* à Charleston.
+En 1998, il rencontre Pierre Constant sur *Manon Lescaut* de Puccini à l’opéra de Nancy, repris à la Fenice de Venise puis au Grand Théâtre de Genève (2002). Il sera aussi son assistant sur *Samson et Dalila* (Venise, 1999) et *Peter Grimes* (Opéra de Nancy, 2000).
 
-Il est également l'assistant régulier à la mise en scène de Pierre Constant, Jean-Louis Pichon 
-et plus récemment de Ron Daniels et Kamel Ouali.
+Il collabore également avec Charles Roubaud sur de nombreux ouvrages tels que *Rigoletto* aux arènes de Vérone, *Don Carlos*, *Nabucco*, *Aïda* aux Chorégies d’Orange, *Traviata* au théâtre Marinsky de Saint-Pétersbourg, *Lakmé* à Charleston.
 
-En 1995 à l'Opéra de Nancy, il met en scène *Embûches de Noël*, pasticcio d'opérettes dont il co-écrit le livret avec Denis Baronnet.
+Il travaille également avec Jean-Louis Pichon, Ron Daniels (*Il Postino* avec P.Domingo, *l'Enlèvement au Sérail*) et plus récemment avec Louis Desiré (*Don Quichotte*, *Les Huguenots*).
 
-En 1996, il signe sa première mise en scène lyrique Macbeth de Verdi à l’opéra de Nancy, reprise ensuite à Tours et 
-à l’Opéra Royal de Wallonie.
+Sa première mise en scène est une création, *Embûches de Noël*, pasticcio d'opérettes, dont il est l’auteur du livret avec Denis Baronnet, en 1995, à l'Opéra de Nancy. En 1996, c’est aussi à Nancy qu’il signe sa première mise en scène lyrique avec *Macbeth* de Verdi, repris ensuite à Tours et à l’Opéra Royal de Wallonie.
 
-Dès lors il met en scène régulièrement des opéras parmi lesquels *La Clémence de Titus*, *Paillasse*, *La Bohème*, 
-*Fairy Queen*, *L’Enlèvement au Sérail*, *Samson et Dalila*, *Roméo et Juliette*.
+En tant que metteur en scène, il a notamment monté *La Clémence de Titus* (direction musicale : Patrick Fournillier, Opéra de Saint Etienne, 1998), *La Bohème* (direction musicale : Louis Langré, Grand Théâtre de Genève, 2003), *Roméo et Juliette* (direction musicale : Jean-Yves Ossonce, Grand Théâtre de Tours, 2006), *Samson et Dalila* (direction musicale : Laurent Campelone, Opéra de Saint Etienne, 2010), *Nabucco* (direction musicale : David Reiland, Opéra de Saint Etienne, 2016)...
 
-En 2003, il met en scène avec sa compagnie *Partage de Midi* de Claudel puis *Loretta Strong* de Copi en 2006.
+En 2003, il fonde sa compagnie de théâtre pour créer *Partage de Midi* de Claudel puis *Loretta Strong* de Copi en 2006.
 
-En 2009, il entame une collaboration régulière avec Jean-François Zygel dont il met en scène, entre autres, 
-les *Leçons d’Opéra* et les *Concerts Improbables* au théâtre du Châtelet.
+Depuis 2011, il travaille avec Les Voix Animées, compagnie de polyphonies renaissance, dont il met en scène les spectacles et pour laquelle il réalise deux web-séries : *La vidéos de promotion des Voiz’Animées* et *Space 0*, ainsi que *1514, Le Voyage spatio-temporel des Voix Animées*, série radiophonique pour France Musique.
 
-Depuis 2011, il travaille régulièrement avec les Voix Animées, dont il met en scène les spectacles, 
-réalise avec cette compagnie deux web-série *La vidéo de promotion des Voiz’ Animées* et *Space 0*.
+Au théâtre du Châtelet, il entame en 2009 une collaboration régulière avec Jean-François Zygel, dont il met en scène entre autres les *Leçons d’Opéra* et les *Concerts Improbables*.
 
-En 2016, il met en scène *Nabucco* de Verdi à l’Opéra de Saint-Etienne repris à l’Opéra de Nice et 
-à l’Opéra de Toulon et l’année prochaine à l’Opéra de Marseille.
+En 2019, il met en scène *Aïda* aux Soirées Lyriques de Sanxay et en 2021 *Carmen* avec Roberto Rizzi Brignoli. À l’opéra de Marseille, il a repris cette année *Nabucco* avec à la baguette Paolo Arrivabeni et reprendra *La Veuve Joyeuse* en décembre 2023, créé à l’opéra de Saint-Étienne en décembre dernier.
+
