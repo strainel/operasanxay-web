@@ -24,6 +24,19 @@ Séducteur blasphémateur, Don Giovanni avance masqué pour séduire la jeune Do
 Après être passé entre les mailles des filets, non sans s’en être délecté avec concupiscence, Don Giovanni, damné, brûlera dans les flammes de l’enfer, entrainé par le spectre du Commandeur venu venger sa fille et rétablir l’ordre des choses.
 
 
+&nbsp;
+
+{{< figure src="/images/portfolio/2023_dongiovanni/dongiovanni_acte1_001.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2023_dongiovanni/dongiovanni_acte1_002.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2023_dongiovanni/dongiovanni_acte1_003.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2023_dongiovanni/dongiovanni_acte1_004.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2023_dongiovanni/dongiovanni_acte1_005.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2023_dongiovanni/dongiovanni_acte2_006.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2023_dongiovanni/dongiovanni_acte2_007.jpg" width="100%" >}}
+{{< figure src="/images/portfolio/2023_dongiovanni/dongiovanni_acte2_008.jpg" width="100%" >}}
+*Photos : Francis Mayet*
+
+
 ### Equipe artistique
 
 

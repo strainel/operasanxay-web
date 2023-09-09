@@ -49,20 +49,19 @@ googleAnalitycsID = "UA-193135372-1"
 # Banner Section
 [params.banner]
 enable  = true
-#bgImage = "/images/portfolio/2015_turandot/2015_turandot_11.jpg"
-bgImage = "/images/portfolio/site/a6c816551c640065f90d3ab829a48a6f497986a2.jpg"
-#heading = "Turandot - 2023 - XXIIIe édition"
-heading = "2023 - XXIIIe édition"
-description = "10 - 12 - 14 août 2023"
+bgImage = "/images/portfolio/2023_dongiovanni/dongiovanni_acte2_008.jpg"
+#bgImage = "/images/portfolio/site/a6c816551c640065f90d3ab829a48a6f497986a2.jpg"
+heading = "2024 - XXIVe édition"
+#description = "10 - 12 - 14 août 2023"
 #description = "Retrouvez ici la production de 2023"
-description2 = "Toute l'équipe des Soirées Lyriques de Sanxay vous remercie pour votre fidélité et vous donne rendez-vous en août 2023 pour un nouvel opéra incroyable. À partir de 22 euros"
+description = "Toute l'équipe des Soirées Lyriques de Sanxay vous remercie pour votre fidélité et vous donne rendez-vous en août 2024 pour un nouvelle production incroyable. À partir de 22 euros"
 #alert = "Les Soirées Lyriques vous informent que le passe vaccinal est obligatoire pour l'accès aux spectacles, conformément au décret gouvernemental. Aussi, il vous sera demandé de présenter impérativement un passe vaccinal valide, accompagné d'une pièce d'identité. Plus de détails sur le site du gouvernement : https://www.gouvernement.fr/info-coronavirus/pass-sanitaire"
 # button
 btn     = true
-btnText = "Découvrir le casting"
+btnText = "Souvenir"
 btnURL  = "/portfolio/2023_dongiovanni/"
 # button
-btn2     = true
+btn2     = false
 btn2Text = "Acheter maintenant"
 btn2URL  = "https://my.weezevent.com/donjuan2023"
 
