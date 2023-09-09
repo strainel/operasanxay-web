@@ -1,4 +1,4 @@
-enable : true
+enable : false
 title: Les tarifs des places
 subtitle: À chacun sa place !
 #image: images/about/pricing.jpg
