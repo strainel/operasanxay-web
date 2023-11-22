@@ -3,10 +3,14 @@ title: "Alfred Bironien"
 type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/alfred_bironien.jpg
+operabase: https://www.operabase.com/artists/alfred-bironien-23641/fr
 role: Ténor
 liveLink: 
 submitDate: 
 show:
+  - role: Parpignol
+    title: La Bohème en 2024
+    url : /portfolio/2024_boheme/
   - role: Le Remendado
     title: Carmen en 2021
     url : /portfolio/2021_carmen/

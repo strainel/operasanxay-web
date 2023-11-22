@@ -2,7 +2,6 @@
 title: "Carlos Natale"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-caption: Giacomo Puccini
 image: images/artists/carlos_natale.png
 role: Ténor
 liveLink: 

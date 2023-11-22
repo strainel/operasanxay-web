@@ -1,45 +1,45 @@
-enable : false
+enable : true
 title: Les tarifs des places
 subtitle: À chacun sa place !
 #image: images/about/pricing.jpg
 #description: "**Les préventes pour la production de l'édition 2023 seront possibles pour Noël, jusqu'au 31 décembre !**"
-description: "**Les ventes sont ouvertes depuis le 1er avril 2023 !** Les modalités de vente évoluent cette année : 
-              le site en ligne permet maintenant de choisir et d'acheter les places numérotées. Les prix sont indiqués
-              ci-dessous en distinguant les places numérottées (PN) et les placements libres (PL)."
+description: "**Les ventes de Noël sont ouvertes du 1er au 31 décembre 2023 !** 
+              Le site en ligne permet de choisir et d'acheter les places numérotées (PN) ou en placement libre (PL), dont
+              les prix sont indiqués ci-dessous."
 details: "PN = Place numérotée. PL = Placement libre. <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
 link : "https://my.weezevent.com/donjuan2023"
 pricing_table:
   # pricing table loop
   - name : "Orchestre centrale"
-    price: "à partir de 84 €"
+    price: "à partir de 98 €"
     content : "Idéal pour être proche et face à la scène"
 #    link : ""
     services :
-      - "Plein tarif : 98 € pn / 84 € pl"
-      - "Tarif réduit : 88 € pn / 76 € pl"
-      - "Tarif jeune : 49 € pn / 42 € pl"
+      - "Plein tarif : 114 € pn / 98 € pl"
+      - "Tarif réduit : 103 € pn / 89 € pl"
+      - "Tarif jeune : 57 € pn / 49 € pl"
       
   - name : "Gradin"
-    price: "à partir de 66 €"
+    price: "à partir de 79 €"
     content : "Admirable pour voir la scène avec un peu de hauteur"
 #    link : ""
     services:
-      - "Plein tarif : 80 € pn / 66 € pl"
-      - "Tarif réduit : 72 € pn / 59 € pl"
-      - "Tarif jeune : 40 € pn / 33 € pl"
+      - "Plein tarif : 94 € pn / 79 € pl"
+      - "Tarif réduit : 85 € pn / 72 € pl"
+      - "Tarif jeune : 47 € pn / 39,50 € pl"
 
   - name : "Orchestre latérale"
-    price: "à partir de 44 €"
+    price: "à partir de 46 €"
     content : "Parfait pour être proche de la scène"
 #    link : ""
     services:
-      - "Plein tarif : 74 €, 60 € pn / 44 € pl"
-      - "Tarif réduit : 67 €, 54 € pn / 40 € pl"
-      - "Tarif jeune : 37 €, 30 € pn / 22 € pl"
+      - "Plein tarif : 76 €, 62 € pn / 46 € pl"
+      - "Tarif réduit : 69 €, 56 € pn / 42 € pl"
+      - "Tarif jeune : 38 €, 31 € pn / 23 € pl"
 
       
   - name : "Promenoir gazon"
-    price: "22 €"
+    price: "23 €"
     content : "Unique pour pique-niquer et profiter d'une vue exceptionnelle de la scène (**places non accessibles aux personnes à mobilité réduite**)"
 #    link : ""
 #    services:

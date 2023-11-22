@@ -8,6 +8,9 @@ operabase: https://www.operabase.com/artists/stefano-visconti-20659/fr
 submitDate: 
 show:
   - role: Chef de choeur
+    title: La Bohème en 2024
+    url : /portfolio/2024_boheme/
+  - role: Chef de choeur
     title: Don Giovanni en 2023
     url : /portfolio/2023_dongiovanni/
   - role: Chef de choeur

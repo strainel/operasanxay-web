@@ -7,6 +7,9 @@ role: Basse
 operabase: https://www.operabase.com/artists/adrien-mathonat-2124292/fr
 submitDate: 
 show:
+  - role: Colline
+    title: La Bohème en 2024
+    url : /portfolio/2024_boheme/
   - role: Masetto, Commandeur 
     title: Don Giovanni en 2023
     url : /portfolio/2023_dongiovanni/

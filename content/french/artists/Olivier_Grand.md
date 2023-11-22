@@ -3,10 +3,14 @@ title: "Olivier Grand"
 type: artists
 date: 2021-03-12T16:59:54+06:00
 image: images/artists/olivier_grand.jpg
+operabase: https://www.operabase.com/artists/olivier-grand-13429/fr
 role: Baryton
 liveLink: 
 submitDate: 
 show:
+  - role: Benoit/Alcindoro
+    title: La Bohème en 2024
+    url : /portfolio/2024_boheme/
   - role: Le Dancaïre
     title: Carmen en 2021
     url : /portfolio/2021_carmen/

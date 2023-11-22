@@ -2,18 +2,21 @@
 title: "Adriana Gonzalez"
 type: artists
 date: 2021-03-12T16:59:54+06:00
-image: images/artists/adriana_gonzalez_credit_marine_cessat_begler.jpg
+#image: images/artists/adriana_gonzalez_credit_marine_cessat_begler.jpg
+operabase: https://www.operabase.com/artists/adriana-gonzalez-31670/performances/en
+image: images/artists/adriana_gonzalez_2.jpg
 role: Soprane
 liveLink: 
 submitDate: 
 show:
+  - role: Mimi
+    title: La Bohème en 2024
+    url : /portfolio/2024_boheme/
   - role: Micaëla
     title: Carmen en 2021
     url : /portfolio/2021_carmen/
 ---
 
-
-*Crédit image : © Marine Cessat-Bégler*
 
 Premier prix et prix de Zarzuela au Concours Operalia 2019, appréciée pour sa belle voix lyrique 
 et sa remarquable musicalité, la jeune Adriana Gonzalez fait partie des chanteuses les plus prometteuses de sa génération.
@@ -46,6 +49,12 @@ Brigitta (*Iolanta*) à l'Opéra National de Paris, la Comtesse (*Le Nozze di Fi
 Son premier enregistrement consacré aux mélodies de Robert Dussaut & Hélène Covatti, avec Iñaki Encina Oyón au piano, 
 sorti au printemps 2020 chez Audax Records, est salué par la critique : "Preis der deutschen Schallplattenkritik", sélection Le Monde.
 
-Parmi ses projets pour la saison 2020/2021 et les suivantes : Micaela (*Carmen*) à Toulon, Mimi (*La Bohème*) à Barcelone, 
+Elle a également chanté Micaela (*Carmen*) à Toulon, Mimi (*La Bohème*) à Barcelone, 
 la Comtesse à Luxembourg et à Francfort, Mimi à Tokyo, Juliette (*Roméo et Juliette*) à Houston, Micaela à Paris-Bastille, 
 Lauretta (*Gianni Schicchi*) à Tokyo (reporté), Liù à Strasbourg, Micaela à Barcelone...
+
+Parmi ses projets pour la saison 2023/2024 : La Comtessa di Almaviva (*Le nozze di Figaro*) à Oper Frankfurt, 
+Liù (*Turandot*) à l'Opéra national du Rhin (Dijon), au State Opera Berlin et à l'Opéra de Paris, 
+Fiordiligi (*Cosi Fan Tutti*) au Staatsoper Hamburg.
+
+
