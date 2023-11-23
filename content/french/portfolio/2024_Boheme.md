@@ -3,7 +3,7 @@ title: "2024 : La Bohème"
 type: portfolio
 date: 2023-11-22T11:59:54+01:00
 caption: Giacomo Puccini
-image: images/portfolio/2024_boheme/affiche_boheme.png
+image: images/portfolio/2024_boheme/affiche_boheme.jpg
 category: ["opera","puccini"]
 wikiLink: https://fr.wikipedia.org/wiki/La_Bohème
 submitDate: 10, 12 et 14 août 2024 à 21h30
