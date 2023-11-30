@@ -49,7 +49,8 @@ googleAnalitycsID = "UA-193135372-1"
 # Banner Section
 [params.banner]
 enable  = true
-bgImage = "/images/portfolio/2023_dongiovanni/dongiovanni_acte2_008.jpg"
+#bgImage = "/images/portfolio/2023_dongiovanni/dongiovanni_acte2_008.jpg"
+bgImage = "/images/portfolio/2005_boheme/scene_02.jpg"
 #bgImage = "/images/portfolio/site/a6c816551c640065f90d3ab829a48a6f497986a2.jpg"
 heading = "2024 - XXIVe édition"
 description = "10 - 12 - 14 août 2024"
