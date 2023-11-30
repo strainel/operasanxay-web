@@ -67,7 +67,7 @@ Les liens hypertextes présents sur le site www.operasanxay.fr font l’objet de
 
 #### Données personnelles
 
-Le site, tel qu’il a été conçu, n’a pas pour vocation de collecter de données personnelles sur ses visiteurs. Il se peut toutefois qu’il soit amené à le faire de manière accessoire, notamment pour leur adresser une lettre d’informations, pour la réalisation d’études statistiques ou pour répondre à des questions directement posées à l’association. Dans ce cas, l'association des Soirées Lyriques de Sanxay s’engage à ne pas faire un usage commercial des données collectées et à ne les conserver que pendant une durée strictement liée à la finalité du traitement. Les données collectées ne sont destinées qu’à l’usage propre de l’association des Soirées Lyriques de Sanxay.
+Le site, tel qu’il a été conçu, n’a pas pour vocation de collecter de données personnelles sur ses visiteurs. Il se peut toutefois qu’il soit amené à le faire de manière accessoire, notamment pour leur adresser une lettre d’information, pour l'analyse statistique des actions de communication ou pour répondre à des questions directement posées à l’association. Dans ce cas, l'association des Soirées Lyriques de Sanxay s’engage à ne pas faire un usage commercial des données collectées et à ne les conserver que pendant une durée strictement liée à la finalité du traitement. Les données collectées ne sont destinées qu’à l’usage propre de l’association des Soirées Lyriques de Sanxay.
 
 L'association des Soirées Lyriques de Sanxay s’engage à ce que la collecte et le traitement de vos données, effectués à partir du site www.operasanxay.fr, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
@@ -86,6 +86,7 @@ Se reporter aux mentions sur les photographies.
 
 L'association des Soirées Lyriques de Sanxay se réserve le droit de modifier les présentes mentions à tout moment.
 L'utilisateur s'engage donc à les consulter régulièrement.
+
 
 #### Droit applicable en cas de litige
 
