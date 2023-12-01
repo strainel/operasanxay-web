@@ -63,9 +63,9 @@ btn     = true
 btnText = "Découvrir"
 btnURL  = "/portfolio/2024_boheme/"
 # button
-btn2     = false
+btn2     = true
 btn2Text = "Acheter maintenant"
-btn2URL  = "https://my.weezevent.com/donjuan2023"
+btn2URL  = "https://my.weezevent.com/la-boheme"
 
 # flip text
 [[params.banner.flipText]]
