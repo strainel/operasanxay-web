@@ -53,7 +53,7 @@ enable  = true
 #bgImage = "/images/portfolio/2023_dongiovanni/dongiovanni_acte2_008.jpg"
 bgImage = "/images/portfolio/2005_boheme/scene_02.jpg"
 #bgImage = "/images/portfolio/site/a6c816551c640065f90d3ab829a48a6f497986a2.jpg"
-heading = "2024 - XXIVe édition"
+heading = "2024 - XXIVe édition - La Bohème"
 description = "10 - 12 - 14 août 2024"
 #description = "Retrouvez ici la production de 2023"
 #description = "Toute l'équipe des Soirées Lyriques de Sanxay vous remercie pour votre fidélité et vous donne rendez-vous en août 2024 pour un nouvelle production incroyable. À partir de 22 euros"
@@ -77,9 +77,9 @@ title   = "Découvrez les artistes"
 #[[params.banner.flipText]]
 #title   = "Encore un peu de patience !"
 [[params.banner.flipText]]
-title   = "La Bohème - Puccini"
+title   = "Les ventes de Noël ? C'est maintenant !"
 [[params.banner.flipText]]
-title   = "Soutenez l'association et les bénévoles"
+title   = "Adhérez à l'association et soutenez les bénévoles"
 
 
 # Newsletter
