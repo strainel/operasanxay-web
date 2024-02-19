@@ -3,11 +3,10 @@ title: Les tarifs des places
 subtitle: À chacun sa place !
 #image: images/about/pricing.jpg
 #description: "**Les préventes pour la production de l'édition 2023 seront possibles pour Noël, jusqu'au 31 décembre !**"
-description: "**Les ventes de Noël sont ouvertes du 1er au 31 décembre 2023 !** 
-              Le site en ligne permet de choisir et d'acheter les places numérotées (PN) ou en placement libre (PL), dont
+description: "Le site en ligne permet de choisir et d'acheter les places numérotées (PN) ou en placement libre (PL), dont
               les prix sont indiqués ci-dessous."
 details: "PN = Place numérotée. PL = Placement libre. <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
-#link : "https://my.weezevent.com/donjuan2023"
+link : "https://my.weezevent.com/la-boheme"
 pricing_table:
   # pricing table loop
   - name : "Orchestre centrale"
