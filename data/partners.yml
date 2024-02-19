@@ -50,8 +50,8 @@ members:
     url   : http://www.fondsmaifpourleducation.fr
   - image : images/partners/keldoc.png
     url   : 
-  - image : images/partners/axyus.png
-    url   : https://axyus.com
+#  - image : images/partners/axyus.png
+#    url   : https://axyus.com
 #  - image : images/partners/emil_frey.png
 #    url   : https://www.emilfrey.ch/fr/notre-entreprise/portrait-de-lentreprise
   - image : images/partners/lubicom.png
