@@ -30,8 +30,8 @@ Crée le 11 mars 1851 au théâtre de la Fenice de Venise.
 
 - Direction musicale : [Eric Hull](/artists/eric_hull)
 - Mise en scène : [Agostino Taboga](/artists/agostino_taboga/)
-- Création lumières : Andrea Tocchio / Virginio Levrio
-- Scénographie : Andrea Tocchio
+- Création lumières : [Andrea Tocchio](/artists/andrea_tocchio) / Virginio Levrio
+- Scénographie : [Andrea Tocchio](/artists/andrea_tocchio)
 - Création vidéo : Virginio Levrio
 - Création costumes : Shizuko Omachi / Stefano Nicolao
 - Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)

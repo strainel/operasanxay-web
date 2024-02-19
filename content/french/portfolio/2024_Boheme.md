@@ -12,14 +12,15 @@ created: Création au Teatro Regio de Turin le 1er février 1896
 #flyer: documents/flyer2023.pdf
 ---
 
-Créé en 1896 à Turin, *La Bohème* est un des chefs d’oeuvre de *Puccini* et de l'opéra italien.
-Il contient certains des airs les plus populaires du répertoire de *Puccini*. 
+Créé en 1896 à Turin, *La Bohème* est un des chefs d’oeuvre de l'opéra italien et 
+contient certains des airs les plus populaires du répertoire de Puccini. 
 Le compositeur dépeint de manière impressionniste le Paris des années 1830.
-Il met en musique, non sans une certaine nostalgie, ses souvenirs d'étudiant bohème au Conservatoire et raconte l’histoire amoureuse de deux couples, l’une tragique, l’autre fantaisiste.
+Il met en musique, non sans une certaine nostalgie, ses souvenirs d'étudiant bohème au Conservatoire
+et raconte l’histoire amoureuse de deux couples, l’une tragique, l’autre fantaisiste.
 
 
 Comment ne pas être ému par la mort de Mimi, inscrite dès le début de l’œuvre ?
-Comment ne pas succomber à cette peinture du Paris des années 1830 un soir de Noël par Puccini ?
+Comment ne pas succomber à cette peinture du Paris des années 1830 un soir de Noël ?
 
 
 «&nbsp;Je ne connais personne qui ait décrit le Paris de cette époque aussi bien que Puccini dans La Bohème&nbsp;».
@@ -35,8 +36,8 @@ Des étudiants désargentés, artistes bohèmes, partagent une mansarde insalubr
 Ils comptent sur les joies de la vie pour égayer un peu leur quotidien misérable.
 La petite cousette Mimi apporte lumière et chaleur au poète Rodolfo.
 Ils vivent passionnément leur amour et le montrent à leurs amis durant la soirée de Noël.
-Musette la maitresse volage et son peintre Marcello sont quant à eux habitués aux coups d’éclat.
-Ils forment un couple plein d’humeur à celui de Mimi et Rodolfo, plus mélodramatique.
+Musette la maîtresse volage et son peintre Marcello sont quant à eux habitués aux coups d’éclat.
+Ils forment un couple plein d’humeur comparé à celui de Mimi et Rodolfo, plus mélodramatique.
 
 Mimi et Rodolfo finissent par rompre sans réussir à s’entendre. Pourtant, Mimi se sait condamnée par la phtisie qui la ronge un peu plus chaque jour. Séparée de Rodolfo, elle meurt finalement dans ses bras, sous les yeux des amis bohèmes, incapables de la soigner.
 
