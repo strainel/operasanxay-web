@@ -10,6 +10,9 @@ show:
   - role: Mise en scène, décors et lumières
     title: La Bohème en 2024
     url : /portfolio/2024_boheme/
+  - role: Mise en scène, décors et lumières
+    title: Rigoletto en 2016
+    url : /portfolio/2016_rigoletto/
 ---
 
 

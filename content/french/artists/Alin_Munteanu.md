@@ -4,6 +4,7 @@ type: artists
 date: 2018-07-12T16:59:54+06:00
 image: images/artists/alin_munteanu.jpeg
 role: Baryton
+operabase: https://www.operabase.com/artists/alin-munteanu-2194967/fr
 liveLink: 
 submitDate: 
 show:
