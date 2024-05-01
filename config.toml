@@ -1,144 +1,93 @@
-#baseURL = "https://sls-beta.netlify.app"
+######################## default configuration ####################
+#baseURL = "https://main--sls-ng.netlify.app"
 baseURL = "https://operasanxay.fr"
+
 languageCode = "en-us"
 title = "Soirées Lyriques de Sanxay"
-theme = "timer-hugo"
-
-# disable language
-#disableLanguages = []
-DefaultContentLanguage = "fr"
+theme = "icelab-hugo"
+summaryLength = "10"
 
 
-# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+############################## Output ###############################
+[outputs]
+home = ["HTML", "RSS"]
 
-# Navbar Menus
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+
+############################## Output ###############################
+# JS Plugins
+[[params.plugins.js]]
+URL = "plugins/plugins.js"
+
+
+############################## navigation ###########################
+
+
 [[menu.main]]
-name    = "Productions"
-url     = "portfolio"
-weight  = 1
-[[menu.main]]
-name    = "Partenaires"
-url     = "partners"
-weight  = 2
-[[menu.main]]
-name    = "Infos pratiques"
-url     = "practicals"
-weight  = 3
-[[menu.main]]
-name    = "Nous connaître"
-url     = "about"
-weight  = 4
-#[[menu.main]]
-#name    = "Contact"
-#url     = "contact"
-#weight  = 6
+name = "Productions"
+URL = "works"
+weight = 1
 
-# Site Params
+[[menu.main]]
+name = "Info pratiques"
+URL = "practicals"
+weight = 2
+
+[[menu.main]]
+name = "Partenaires"
+URL = "clients"
+weight = 4
+
+[[menu.main]]
+name = "Nous connaitre"
+URL = "about"
+weight = 6
+
+
+#################### default parameters ##############################
 [params]
+logo = "images/logo_sls.png"
 home = "Accueil"
-#logo = "images/logo-sls-rouge.jpg"
-logo = "images/logo_bleu_3.png"
-dateFormat = "6 January 2006"
-# Meta data
-description = "Soirées lyriques de Sanxay"
-author = "SLS"
-# Google Analitycs
-googleAnalitycsID = "UA-193135372-1"
+description = "Site de l'association des soirées lyriques de Sanxay"
+author = "Association des Soirées Lyriques de Sanxay"
+
+# footer content
+footer_content = "Venez vivre chaque été, à Sanxay, une expérience inédite et inoubliable, en plein coeur de la Vienne où se mêle musique, voix et patrimoine."
+
 # contact form action
-#contactFormAction = "https://formspree.io/f/mzbybole" # contact form works with https://formspree.io
-
-# Banner Section
-[params.banner]
-enable  = true
-#bgImage = "/images/portfolio/2023_dongiovanni/dongiovanni_acte2_008.jpg"
-bgImage = "/images/portfolio/2005_boheme/scene_02.jpg"
-#bgImage = "/images/portfolio/site/a6c816551c640065f90d3ab829a48a6f497986a2.jpg"
-heading = "2024 - XXIVe édition - La Bohème"
-description = "10 - 12 - 14 août 2024"
-#description = "Retrouvez ici la production de 2023"
-#description = "Toute l'équipe des Soirées Lyriques de Sanxay vous remercie pour votre fidélité et vous donne rendez-vous en août 2024 pour un nouvelle production incroyable. À partir de 22 euros"
-#alert = "Les Soirées Lyriques vous informent que le passe vaccinal est obligatoire pour l'accès aux spectacles, conformément au décret gouvernemental. Aussi, il vous sera demandé de présenter impérativement un passe vaccinal valide, accompagné d'une pièce d'identité. Plus de détails sur le site du gouvernement : https://www.gouvernement.fr/info-coronavirus/pass-sanitaire"
-# button
-btn     = true
-btnText = "Découvrir"
-btnURL  = "/portfolio/2024_boheme/"
-# button
-btn2     = true
-btn2Text = "Acheter maintenant"
-btn2URL  = "https://my.weezevent.com/la-boheme"
-
-# flip text
-[[params.banner.flipText]]
-title   = "Découvrez la nouvelle production"
-[[params.banner.flipText]]
-title   = "Découvrez les artistes"
-#[[params.banner.flipText]]
-#title   = "La nouvelle production ?"
-#[[params.banner.flipText]]
-#title   = "Encore un peu de patience !"
-[[params.banner.flipText]]
-title   = "Les ventes de Noël ? C'est maintenant !"
-[[params.banner.flipText]]
-title   = "Adhérez à l'association et soutenez les bénévoles"
+[params.form]
+enable = false
+contact_form_action = "#" # contact form works with https://formspree.io
 
 
-# Newsletter
-[params.newsletter]
-enable = true
-title  = "Être informé de l'actualité des Soirées Lyriques"
-content  = "Gardez le contact et soyez les premiers informés de l'actualité des Soirées Lyriques de Sanxay"
+# google map
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
 
-# Homepage About Section
-[params.about]
-enable  = false
-title   = "ABOUT ME"
-content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
-image   = "images/about/about.jpg"
+############################# social site ########################
+[[params.social]]
+name = "facebook"
+icon = "fa-facebook" # fontawesome icon pack v4.7
+link = "https://fr-fr.facebook.com/operasanxay"
 
-# Call to Action
-[params.cta]
-enable  = true
-title   = "Une question ?"
-content = "Vous souhaitez acheter une place ? Adhérer au comité de soutien ? Nous faire part de votre expérience ? Nous sommes à votre écoute."
-btnText = "Contactez-nous !"
-btnURL  = "/contact"
+[[params.social]]
+name = "twitter"
+icon = "fa-twitter" # fontawesome icon pack v4.7
+link = "https://twitter.com/operasanxay"
 
-# Portfolio Section On Homepage
-[params.portfolio]
-enable  = true
-title   = "Les productions de 2000 à aujourd'hui"
-subtitle= "Les Soirées Lyriques sont nées en 2000. De nombreuses oeuvres ont résonné dans le théatre gallo-romain de Sanxay. Replongez dans le passé..."
+[[params.social]]
+name = "instagram"
+icon = "fa-instagram" # fontawesome icon pack v4.7
+link = "https://www.instagram.com/soireeslyriquessanxay/"
 
-# social icon
-[[params.socialIcon]]
-icon = "ion-social-facebook"
-url = "https://fr-fr.facebook.com/operasanxay"
-
-[[params.socialIcon]]
-icon = "ion-social-twitter"
-url = "https://twitter.com/operasanxay"
-
-[[params.socialIcon]]
-icon = "ion-social-instagram"
-url = "https://instagram.com/soireeslyriquessanxay"
-
-[[params.socialIcon]]
-icon = "ion-social-youtube"
-url = "https://www.youtube.com/channel/UCldxuw4RRkmpXyUkw81F_Gw?view_as=subscriber"
-
-#[[params.socialIcon]]
-#icon = "ion-social-linkedin"
-#url = "#"
-
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+[[params.social]]
+name = "youtube"
+icon = "fa-youtube" # fontawesome icon pack v4.7
+link = "https://www.youtube.com/channel/UCldxuw4RRkmpXyUkw81F_Gw?view_as=subscriber"

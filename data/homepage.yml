@@ -1,0 +1,114 @@
+######################## Banner ############################
+banner:
+  enable : true
+  bg_image: "/images/portfolios/2005_boheme/scene_01.jpg"
+  title : "Soirées Lyriques <br>de Sanxay"
+  content : "XXIVe édtion - La Bohème - 10, 12 et 14 août 2024<br> 
+             Site antique gallo-romain de Sanxay<br><br>
+             Un opéra en plein air cet été dans un lieu exceptionnel ? 
+             Découvrez la nouvelle
+             production 2024 et réservez vos places dès aujourd'hui !"
+  scrolling: "Plus bas"
+  button:
+    enable : true
+    label : "Découvrir"
+    link : "works/2024_boheme/"
+  button2:
+    enable : true
+    label : "Acheter maintenant"
+    link : "https://my.weezevent.com/la-boheme"
+
+################### Service #################################
+service:
+  enable : true
+  bg_image : "images/shape-music.png"
+  subtitle : "Nos objectifs"
+  title : "Art lyrique<br>et patrimoine"
+  service_item:
+    # service item loop
+    - name : "Démocratiser l'opéra"
+      icon : "images/icons/icon_03.jpg"
+      content : "Saviez-vous que la région Poitou-Charentes est la seule de France à ne pas 
+                 avoir d’opéra permanent ? 
+                 <br>Chaque année, en août, les Soirées Lyriques de Sanxay enrichissent 
+                 l'offre culturelle de la région Nouvelle-Aquitaine et portent l'art lyrique 
+                 auprès d'un public varié, venu de la Vienne, des Deux-Sèvres, mais aussi
+                 de la France entière. C'est l'occasion pour beaucoup d'entre eux de 
+                 découvrir l’opéra pour la première fois. Les prix des places débutent à 
+                 20 euros et sont de deux à trois fois inférieurs à ceux pratiqués par 
+                 d'autres festivals."
+
+    # service item loop
+    - name : "Créer des vocations avec un projet pédagogique"
+      icon : "images/icons/icon_02.jpg"
+      content : "En collaboration avec la direction des services départementaux 
+                 de l'éducation nationale, des artistes lyriques et metteurs en scène 
+                 interviennent dans des écoles, collèges et lycées de la région, afin 
+                 d’initier et sensibiliser les élèves à l’art lyrique.<br>Chaque année, 
+                 une cinquantaine de jeunes musiciens et choristes des conservatoires 
+                 régionaux ou nationaux font leurs premiers pas aux côtés d'artistes 
+                 professionnels chevronnés aux Soirées Lyriques de Sanxay créant ainsi 
+                 une transmission des savoirs entre générations."
+      
+    # service item loop
+    - name : "Valoriser le patrimoine"
+      icon : "images/icons/icon_01.jpg"
+      content : "Les Soirées Lyriques de Sanxay se sont installées dans un cadre historique, 
+                 inédit, inscrit dans l'Histoire et dont l'accoustique est exceptionnelle : 
+                 le théâtre gallo-romain de Sanxay. Le Centre des monuments nationaux, 
+                 la Direction régionale des affaires culturelles et l'association des 
+                 Soirées Lyriques de Sanxay participent à faire revivre ce théâtre antique, 
+                 qui pouvait accueillir jusqu'à 6600 spectateurs. Vous pouvez visiter 
+                 le site gallo-romain, les thermes et le temple, avec un tarif réduit sur 
+                 présentation de votre billet d'opéra.<br>Contactez l'accueil du site 
+                 (05 49 53 61 48) ou visitez <a href='https://www.site-galloromain-de-sanxay.fr' target='_blank'>
+                 la page web du site gallo-romain de Sanxay</a> pour connaître les horaires
+                 d'ouverture."
+
+############################# portfolio ############################
+portfolio:
+  enable : true
+  subtitle : "Les productions"
+  title : "Découvrir les <br>productions"
+  button : "Toutes les productions"
+  # portfolio item comes from `content/work/` folder
+
+
+############################ testimonial ###########################
+testimonial:
+  enable : false
+  subtitle : "On parle de nous !"
+  title : "Que pensez-vous <br> des Soirées ?"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Good Win"
+      image : "images/testimonial/quote-person.png"
+      designation : "CEO, Align org"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      
+    # testimonial item loop
+    - name : "Good Win"
+      image : "images/testimonial/quote-person.png"
+      designation : "CEO, Align org"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      
+    # testimonial item loop
+    - name : "Good Win"
+      image : "images/testimonial/quote-person.png"
+      designation : "CEO, Align org"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+################# call to action ##################################3
+call_to_action:
+  enable : true
+  title : "Une question ?"
+  content : "Vous souhaitez acheter une place ? 
+    Adhérer au comité de soutien ? 
+    Nous faire part de votre expérience ? 
+    Recevoir l'infolettre ? 
+    Nous sommes à votre écoute."
+  button:
+    enable : true
+    label : "Contactez-nous !"
+    link : "contact"

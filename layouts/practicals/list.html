@@ -2,63 +2,95 @@
 
 {{ partial "page-title.html" . }}
 
-{{ partial "pricing.html" . }}
-
-{{ if .Site.Data.practicals.enable }}
-{{ with .Site.Data.practicals }}
-{{ "<!-- Contact Section Start -->" | safeHTML }}
-<section id="contact-section">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-            {{ with .title }}<h2 class="subtitle text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
-            {{ with .subtitle }}<p class="subtitle-des text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
-            </div>
-            <div class="col-md-6 mb-5 mb-md-0">
-                <div class="block">
-                    {{ with .transportation }}<h3 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
-                    {{ with .transportationSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
-                    <div class="contact-form">
-
-                     <!-- single transportation table -->
-                      {{ range .transportationList }}
-                          <div class="price-title">
-                            <h5>{{ .name }}</h5>
-                            <strong class="value">{{ .price }}</strong>
-                            <p>{{ .content | markdownify }}</p>
-                          </div>
-                          <ul>
-                            {{ range .services }}
-                            <li>{{ . | markdownify }}</li>
-                            {{ end }}
-                          </ul>
-                      {{ end }}
-                      <!-- end single transportation table -->
-
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="map-area">
-                    {{ with .Site.Data.practicals.mapTitle }}<h3 class="subtitle  wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
-                    {{ with .Site.Data.practicals.mapSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
-                    <div class="map">
-                        <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-0.029236078262329105%2C46.492306297547856%2C-0.015181303024291994%2C46.49733612730822&amp;layer=mapnik&amp;marker=46.49482496355339%2C-0.022208690643310547"
-                            width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </div>
+<!-- Coming Section Start -->
+{{ if .Site.Data.practicals.pricing.enable }}
+{{ with .Site.Data.practicals.pricing }}
+<section class="team section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <div class="section-title">
+          <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
+          <h1><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h1>
         </div>
+
+        <div class="work-single-image">
+          <img class="img-fluid w-80" src="{{ .image | absURL }}">
+        </div>
+
+      </div>
     </div>
+    <div class="row justify-content-center">
+      {{ range .pricing_item }}
+      <div class="col-lg-4 col-md-6">
+        <!-- Team Member -->
+        <div class="team-member">
+          <!-- Member Image -->
+          <div class="team-member-image" style="background-image: url('{{ .image_bg | absURL}}');">
+          {{ with .image }}
+            <img src="{{ . | absURL}}" alt="team-member-image">
+          {{ end }}
+          </div>
+          <!-- Member Content -->
+          <div class="team-member-content text-center">
+            <h6 class="sm">{{ .name | markdownify}}</h6>
+            <span>{{ .price | markdownify }}</span>
+            <h7>{{ .content | markdownify }}</h7><br><br> 
+            {{ range .details_item }}
+              <h7>{{ . | markdownify }}</h7><br>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
 </section>
-{{ "<!-- Contact Section End -->" | safeHTML }}
 {{ end }}
 {{ end }}
 
-{{ partial "sanitairepass.html" . }}
+<!-- Pricing Section End -->
 
-{{ partial "support.html" . }}
+<!-- Coming Section Start -->
+{{ if .Site.Data.practicals.coming.enable }}
+{{ with .Site.Data.practicals.coming }}
+<section class="history section">
+  <div class="shape-big">
+    <img src="{{`images/shape-medium.png` | absURL}}" class="img-fluid" alt="big-shape">
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 align-self-center">
+        <!-- History Content -->
+        <div class="history-content">
+          <!-- section title -->
+          <div class="section-title">
+            <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
+            <h2><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h2>
+          </div>
+          <div class="content">
+            {{ .description | markdownify}}
+            {{ range .coming_item }}
+            <div class="team-member-content">
+              <h6 class="sm">{{ .name | markdownify}}</h6>
+              <h7>{{ .content | markdownify }}</h7>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-5 ml-auto">
+        <!-- History Image -->
+        <div class="history-image">
+          <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=-0.029236078262329105%2C46.492306297547856%2C-0.015181303024291994%2C46.49733612730822&amp;layer=mapnik&amp;marker=46.49482496355339%2C-0.022208690643310547" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- Coming Section End -->
 
-{{ partial "cta.html" . }}
 
 {{ end }}
