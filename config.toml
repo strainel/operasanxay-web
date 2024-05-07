@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 #baseURL = "https://main--sls-ng.netlify.app"
-baseURL = "https://operasanxay.fr"
+baseURL = "https://www.operasanxay.fr"
 
 languageCode = "en-us"
 title = "Soirées Lyriques de Sanxay"
