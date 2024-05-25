@@ -9,14 +9,18 @@ coming:
     - name : En voiture
       content : Par l'autoroute A10. Si vous venez depuis Paris, ce sera la sortie 30.
           Si vous venez depuis Bordeaux, ce sera la sortie 31.
+          Vous pouvez aussi proposer votre trajet à d'autres festivaliers en covoiturage !
+          Une belle occasion d'échanger sur l'opéra et le festival de Sanxay.
     - name : Par covoiturage
-      content : Jetez un oeil sur la carte de
+      content : Nouveau cette année entre festivaliers ! Vous pouvez proposer
+          un trajet en covoiturage ou cherchez un covoiturage. 
+          Jetez un oeil sur la carte de
           [covoiturage simple](https://app.covoiturage-simple.com/sanxay) proposé
           par notre partenaire institutionnel du Grand Poitiers.
           Il y a régulièrement des offres pour
           se rendre à Sanxay.
-          Vous pouvez aussi tenter votre chance sur les sites [blablacar](https://blablacar.fr) ou 
-          [carpooling](https://www.europe-carpooling.com). 
+          <!-- Vous pouvez aussi tenter votre chance sur les sites [blablacar](https://blablacar.fr) ou 
+          [carpooling](https://www.europe-carpooling.com). -->
     - name : Par train
       content : Plusieurs gares sont proches de Sanxay. La gare de **Poitiers** est à 30 minutes 
           de Sanxay, celle de **Saint-Maixent-l'école** à 25 minutes, celle de **Lusignan** à 15 minutes.
