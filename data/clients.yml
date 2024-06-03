@@ -97,9 +97,10 @@ partners_off:
 # manque alcor
     - logo : images/partners/aurik.png
       link : https://www.aurik.fr
+    - logo : images/partners/bergerault.jpg
+      link : https://www.bergerault.com/fr/
     - logo : images/partners/btobeez.jpg
       link : https://www.btobeez.com
-# manque btobeezz
     - logo : images/partners/lubicom.png
       link : http://www.lubicom.fr/
 # manque poitou boissons
