@@ -12,7 +12,7 @@ show:
     url : /portfolio/2023_dongiovanni/
   - role: Figaro
     title: Le Barbier de Séville en 2022
-    url : /portfolio/2022_barvier/
+    url : /portfolio/2022_barbier/
   - role: Escamillo
     title: Carmen en 2021
     url : /portfolio/2021_carmen/

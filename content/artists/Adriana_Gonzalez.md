@@ -11,10 +11,10 @@ submitDate:
 show:
   - role: Mimi
     title: La Bohème en 2024
-    url : /works/2024_boheme/
+    url : /portfolio/2024_boheme/
   - role: Micaëla
     title: Carmen en 2021
-    url : /portfolios/2021_carmen/
+    url : /portfolio/2021_carmen/
 ---
 
 

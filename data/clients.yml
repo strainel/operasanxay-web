@@ -75,7 +75,8 @@ partners_amis:
       link : https://agence.assurance-mutuelle-poitiers.fr/
     - logo : images/partners/republic_corner.png
       link : https://republic-corner.fr
-# manque strati
+    - logo : images/partners/strato2.png
+      link : 
     - logo : images/partners/axa.png
       link : 
     - logo : images/partners/servistores.png
@@ -84,7 +85,7 @@ partners_amis:
       link : 
     - logo : images/partners/territoria_mutuelle.png
       link : https://www.territoria-mutuelle.fr 
-# mnaque ACTY, SPP, AMbulance Melisune, Good Mood
+# mnaque ACTY, AMbulance Melisune, Good Mood
 #    - logo : images/partners/orange.png
 #      link : https://www.orange.com/fr/accueil
 
