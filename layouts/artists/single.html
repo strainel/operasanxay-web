@@ -27,7 +27,12 @@
           {{ end }}
           <h3>&nbsp;</h3>
           <h5>En savoir plus</h5>
-          <h6><a class="h6" href="{{.Params.operabase}}">Opérabase <img src="/images/lien-externe.png" width=15px style="vertical-align:top" alt="lien externe"></a></h6>
+          {{ with .Params.liveLink }}
+          <h6><a class="h6" href="{{.}}">Site web pro <img src="/images/lien-externe.png" width=15px style="vertical-align:top" alt="lien externe"></a></h6>
+          {{ end }}
+          {{ with .Params.operabase }}
+          <h6><a class="h6" href="{{.}}">Opérabase <img src="/images/lien-externe.png" width=15px style="vertical-align:top" alt="lien externe"></a></h6>
+          {{ end }}
         </div>
       </div>
     </div>

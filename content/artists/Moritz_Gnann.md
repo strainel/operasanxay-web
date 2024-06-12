@@ -2,9 +2,9 @@
 title: "Moritz Gnann"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/moritz_gnann.jpg
+image: images/artists/moritz_gnann.png
 role: Direction musicale
-liveLink: https://moritzgnann.com/
+liveLink: https://www.moritzgnann.de
 operabase: https://www.operabase.com/artists/moritz-gnann-12752/fr
 submitDate: 
 show:
@@ -13,8 +13,9 @@ show:
     url : /portfolio/2024_boheme/
 ---
 
+*crédit photo : Neda Navaee*
 
-Moritz Gnann est un chef d'orchestre allemand acclamé comme l'un des plus passionnants de sa génération. 
+**Moritz Gnann** est un chef d'orchestre allemand acclamé comme l'un des plus passionnants de sa génération. 
 Il a étudié la direction d'orchestre à la Universität der Künste de Berlin et à la Musikhochschule de Dresde,
 obtenant son diplôme avec distinction. 
 Il a reçu des critiques exceptionnelles pour son approche novatrice des répertoires symphoniques et lyriques.
