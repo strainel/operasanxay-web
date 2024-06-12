@@ -102,11 +102,9 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Une question ?"
-  content : "Vous souhaitez acheter une place ? 
-    Adhérer au comité de soutien ? 
-    Nous faire part de votre expérience ? 
-    Recevoir l'infolettre ? 
+  title : "Actualités ? <br>Question ?"
+  content : "Vous souhaitez recevoir régulièrement les actualités des Soirées Lyriques
+    de Sanxay ? Ou adhérer au comité de soutien ? Ou nous faire part de votre expérience ? 
     Nous sommes à votre écoute."
   button:
     enable : true
