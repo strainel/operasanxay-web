@@ -12,7 +12,7 @@ banner:
   button:
     enable : true
     label : "Découvrir"
-    link : "works/2024_boheme/"
+    link : "portfolio/2024_boheme/"
   button2:
     enable : true
     label : "Acheter maintenant"
