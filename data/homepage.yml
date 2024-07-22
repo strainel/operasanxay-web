@@ -1,7 +1,7 @@
 ######################## Banner ############################
 banner:
   enable : true
-  bg_image: "/images/portfolios/2005_boheme/scene_01.jpg"
+  bg_image: "/images/portfolios/2005_boheme/scene_01_light.jpg"
   title : "Soirées Lyriques <br>de Sanxay"
   content : "XXIVe édtion - La Bohème - 10, 12 et 14 août 2024<br> 
              Site antique gallo-romain de Sanxay<br><br>
