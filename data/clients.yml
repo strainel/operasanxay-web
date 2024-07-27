@@ -22,7 +22,7 @@ partners_vip:
       link : https://ch-laborit.fr
     - logo : images/partners/centre_hospitalier_niort.jpg
       link : https://www.ch-niort.fr
-    - logo : images/partners/caisse_depots.png
+    - logo : images/partners/caissedesdepots.png
       link : https://www.caissedesdepots.fr/modele-unique/nos-missions
     - logo : images/partners/boivre.png
       link : https://www.boivrelavallee.eu
@@ -47,11 +47,11 @@ partners_amis:
   subtitle : "Merci"
   title : "Grands mécènes et amis"
   clients:
-    - logo : images/partners/mhv.png
+    - logo : images/partners/mhv.jpg
       link : https://www.mhv.fr
     - logo : images/partners/duo_solutions.png
       link : https://www.duo-solutions.fr
-    - logo : images/partners/futuroscope.svg
+    - logo : images/partners/futuroscope.png
       link : https://www.futuroscope.com/fr/
     - logo : images/partners/credit-agricole.png
       link : https://www.credit-agricole.fr/ca-tourainepoitou/particulier.html
@@ -106,10 +106,11 @@ partners_off:
       link : https://www.btobeez.com
     - logo : images/partners/azcom.png
       link : http://www.lubicom.fr/
-# manque poitou boissons
-    - logo : images/partners/saveurs_creations.png
+    - logo : images/partners/poitou_boissons.png
+      link : http://www.poitou-boissons.fr
+    - logo : images/partners/saveurs_creations.jpg
       link : http://www.saveursetcreations.fr 
-    - logo : images/partners/securit_dog_man.png
+    - logo : images/partners/securit_dog_man.jpg
       likn : https://www.securitdogman.com
 # manque R... 
     - logo : images/partners/clodejac.png
