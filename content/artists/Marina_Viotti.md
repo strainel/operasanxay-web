@@ -2,7 +2,7 @@
 title: "Marina Viotti"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/marina_viotti.png
+image: images/artists/marina_viotti_02.png
 role: Mezzo-soprano
 liveLink: http://www.marinaviotti.com
 submitDate: 
