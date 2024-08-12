@@ -43,7 +43,7 @@ Grâce à son "tube", le fameux "Va pensiero", chœur des Hébreux réduits en e
 - Anna : [Sarah Vaysset](/artists/sarah_vaysset/)
 - Nabucco : [Alberto Gazale](/artists/alberto_gazale/)
 - Zaccaria : [Ievgen Orlov](/artists/ievgen_orlov/)
-- Ismaël : [Luca Lombardo](/artists/luca_lombaerdo/)
+- Ismaël : [Luca Lombardo](/artists/luca_lombardo/)
 - Le grand prêtre de Babylone : [Nika Guliashvili](/artists/nika_guliashvili/)
 - Abdallo : [Xin Wang](/artists/xin_wang/)
 

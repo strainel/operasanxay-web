@@ -10,7 +10,7 @@ submitDate:
 show:
   - role: Benjamin Franklin Pinkerton
     title: Madame Butterfly en 2013
-    url : /portfolio/2013_madame_butterfly/
+    url : /portfolio/2013_butterfly/
   - role: Don José
     title: Carmen en 2011
     url : /portfolio/2011_carmen/

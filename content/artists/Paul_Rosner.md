@@ -12,7 +12,7 @@ show:
     url : /portfolio/2011_carmen/
   - role: Flavio
     title: Norma en 2010
-    url : portfolio/2010_norma/
+    url : /portfolio/2010_norma/
   - role: Le Messager
     title: Aïda en 2009
     url : /portfolio/2009_aida/
