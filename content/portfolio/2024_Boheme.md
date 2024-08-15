@@ -45,6 +45,19 @@ Mimi et Rodolfo finissent par rompre sans réussir à s’entendre. Pourtant, Mi
 
 
 
+&nbsp;
+
+{{< figure src="/images/portfolios/2024_boheme/boheme_tableau1_01.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2024_boheme/boheme_tableau1_02.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2024_boheme/boheme_tableau2_01.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2024_boheme/boheme_tableau2_02.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2024_boheme/boheme_tableau3_01.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2024_boheme/boheme_tableau4_01.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2024_boheme/boheme_tableau4_02.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2024_boheme/boheme_tableau4_03.jpg" width="100%" >}}
+{{< figure src="/images/portfolios/2024_boheme/boheme_tableau4_04.jpg" width="100%" >}}
+*Photos : Francis Mayet*
+
 ### Equipe artistique
 
 - Direction musicale : [Moritz Gnann](/artists/moritz_gnann/)

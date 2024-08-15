@@ -1,20 +1,25 @@
 ######################## Banner ############################
 banner:
   enable : true
-  bg_image: "/images/portfolios/2005_boheme/scene_01_light.jpg"
+  bg_image: "/images/portfolios/2024_boheme/boheme_tableau4_03.jpg"
   title : "Soirées Lyriques <br>de Sanxay"
   content : "XXIVe édtion - La Bohème - 10, 12 et 14 août 2024<br> 
              Site antique gallo-romain de Sanxay<br><br>
              Un opéra en plein air cet été dans un lieu exceptionnel ? 
-             Découvrez la nouvelle
-             production 2024 et réservez vos places dès aujourd'hui !"
+             Découvrez la production 2024 et réservez vos places dès aujourd'hui !"
+  content : "XXIVe édtion - La Bohème - 10, 12 et 14 août 2024<br> 
+             Site antique gallo-romain de Sanxay<br><br>
+             Merci à notre public fidèle, à tous les nouveaux spectateurs,<br>
+             à tous les bénévoles, à tous les artistes !<br>
+             Merci aux mécènes et aux sponsors institutionnels !<br>
+             À l'année prochaine..."
   scrolling: "Plus bas"
   button:
-    enable : true
+    enable : false
     label : "Découvrir"
     link : "portfolio/2024_boheme/"
   button2:
-    enable : true
+    enable : false
     label : "Acheter maintenant"
     link : "https://my.weezevent.com/la-boheme"
 
