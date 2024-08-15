@@ -31,11 +31,13 @@ coming:
   mapTitle    : La carte
   mapSubtitle : >
     Si vous êtes de passage dans la Vienne, vous pouvez venir nous rencontrer dans le local de l'association à SANXAY
-
+  frameCarpooling : 
+    enable : false
+    link : https://app.covoiturage-simple.com/sanxay?event=2447
 
 ######################### pricing ############################
 pricing:
-  enable : true
+  enable : false
   title: Les tarifs
   subtitle: À chacun sa place !
   image: images/about/pricing.png
