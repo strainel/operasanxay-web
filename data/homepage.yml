@@ -1,27 +1,27 @@
 ######################## Banner ############################
 banner:
   enable : true
-  bg_image: "/images/portfolios/2024_boheme/boheme_tableau4_03.jpg"
+  bg_image: "/images/portfolios/2014_nabucco/2014_nabucco_19.jpg"
   title : "Soirées Lyriques <br>de Sanxay"
-  content : "XXIVe édtion - La Bohème - 10, 12 et 14 août 2024<br> 
+  content : "XXVe édtion - Nabucco - 9, 11 et 13 août 2025<br> 
              Site antique gallo-romain de Sanxay<br><br>
              Un opéra en plein air cet été dans un lieu exceptionnel ? 
-             Découvrez la production 2024 et réservez vos places dès aujourd'hui !"
-  content : "XXIVe édtion - La Bohème - 10, 12 et 14 août 2024<br> 
-             Site antique gallo-romain de Sanxay<br><br>
-             Merci à notre public fidèle, à tous les nouveaux spectateurs,<br>
-             à tous les bénévoles, à tous les artistes !<br>
-             Merci aux mécènes et aux sponsors institutionnels !<br>
-             À l'année prochaine..."
+             Découvrez la production 2025 et réservez dès à présent vos places !"
+#  content : "XXIVe édtion - La Bohème - 10, 12 et 14 août 2024<br> 
+#             Site antique gallo-romain de Sanxay<br><br>
+#             Merci à notre public fidèle, à tous les nouveaux spectateurs,<br>
+#             à tous les bénévoles, à tous les artistes !<br>
+#             Merci aux mécènes et aux sponsors institutionnels !<br>
+#             À l'année prochaine..."
   scrolling: "Plus bas"
   button:
-    enable : false
+    enable : true
     label : "Découvrir"
-    link : "portfolio/2024_boheme/"
+    link : "portfolio/2025_nabucco/"
   button2:
-    enable : false
+    enable : true
     label : "Acheter maintenant"
-    link : "https://my.weezevent.com/la-boheme"
+    link : "https://my.weezevent.com/nabucco-aout-2025-1"
 
 ################### Service #################################
 service:

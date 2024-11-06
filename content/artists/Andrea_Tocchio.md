@@ -8,6 +8,9 @@ operabase: https://www.operabase.com/artists/andrea-tocchio-24643/fr
 submitDate: 
 show:
   - role: Mise en scène, décors et lumières
+    title: Nabucco en 2025
+    url : /portfolio/2025_nabucco/
+  - role: Mise en scène, décors et lumières
     title: La Bohème en 2024
     url : /portfolio/2024_boheme/
   - role: Mise en scène, décors et lumières

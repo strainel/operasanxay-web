@@ -7,6 +7,9 @@ role: Basse
 operabase: https://www.operabase.com/artists/adrien-mathonat-2124292/fr
 submitDate: 
 show:
+  - role: Le Grand Prêtre de Baal
+    title: Nabucco en 2025
+    url : /portfolio/2025_nabucco/
   - role: Colline
     title: La Bohème en 2024
     url : /portfolio/2024_boheme/

@@ -8,6 +8,9 @@ role: Ténor
 liveLink: 
 submitDate: 
 show:
+  - role: Abdallo
+    title: Nabucco en 2025
+    url : /portfolio/2025_nabucco/
   - role: Parpignol
     title: La Bohème en 2024
     url : /portfolio/2024_boheme/

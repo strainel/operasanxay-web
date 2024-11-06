@@ -8,6 +8,9 @@ liveLink:
 submitDate: 
 show:
   - role: Direction musicale
+    title: Nabucco en 2025
+    url : /portfolio/2025_nabucco/
+  - role: Direction musicale
     title: Aïda en 2019
     url : /portfolio/2019_aida/
 ---

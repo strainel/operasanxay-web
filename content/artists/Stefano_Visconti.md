@@ -8,6 +8,9 @@ operabase: https://www.operabase.com/artists/stefano-visconti-20659/fr
 submitDate: 
 show:
   - role: Chef de choeur
+    title: Nabucco en 2025
+    url : /portfolio/2025_nabucco/
+  - role: Chef de choeur
     title: La Bohème en 2024
     url : /portfolio/2024_boheme/
   - role: Chef de choeur
