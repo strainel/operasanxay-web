@@ -57,7 +57,7 @@ pricing:
         - "Tarif jeune : 57 € pn / 49 € pl"
         
     - name : "Gradin"
-      content : "Admirable pour voir la scène avec un peu de hauteur,<br> à partir de 79 €"
+      content : "Admirable pour voir la scène avec un peu de hauteur,<br> à partir de 75 €"
   #    link : ""
       details_item:
         - "Plein tarif : 94 € pn / 75 € pl"
@@ -65,7 +65,7 @@ pricing:
         - "Tarif jeune : 47 € pn / 37,50 € pl"
 
     - name : "Orchestre latérale"
-      content : "Parfait pour être proche de la scène,<br> à partir de 46 €"
+      content : "Parfait pour être proche de la scène,<br> à partir de 49 €"
   #    link : ""
       details_item:
         - "Plein tarif : 76 € / 49 € pl"
