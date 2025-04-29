@@ -38,7 +38,7 @@ Nabucco, roi de Babylone, a triomphé des Hébreux. Zaccaria, leur grand prêtre
 
 ### Distribution
 
-- Abigaille : [Ekaterina Semenchuk](/artists/ekaterina_semenchuk/) (9 et 13 août), [Ewa Vesin](/artists/ewa_vesin) (11 août)
+- Abigaille : [Ewa Vesin](/artists/ewa_vesin)
 - Fenena : [Marie-Andrée Bouchard-Lesieur](/artists/marieandree_bouchardlesieur/)
 - Anna : [Andreea Soare](/artists/andreea_soare/)
 - Nabucco : [Ariunbaatar Ganbaatar](/artists/ariumbaatar_ganbaatar/)
