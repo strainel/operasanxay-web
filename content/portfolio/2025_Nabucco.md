@@ -3,8 +3,7 @@ title: "2025 - Nabucco"
 date: 2024-10-17T15:38:38+06:00
 type: opera
 draft: false
-image: "images/portfolios/2014_nabucco/2014_nabucco_24.jpg"
-image: "images/portfolios/2025_nabucco/affiche_provisoire_carre.png"
+image: "images/portfolios/2025_nabucco/affiche_nabucco_2025.png"
 author: "Giuseppe Verdi"
 eventdate: "9, 11 et 13 août 2025 à 21h30"
 category: ["opera","verdi"]
