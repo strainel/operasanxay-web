@@ -31,7 +31,10 @@ Nabucco, roi de Babylone, a triomphé des Hébreux. Zaccaria, leur grand prêtre
 ### Equipe artistique
 
 - Direction musicale : [Valerio Galli](/artists/valerio_galli/)
-- Mise en scène, décors et lumière : [Andrea Tocchio](/artists/andrea_tocchio/)
+- Mise en scène, scénographie, créaton lumières : [Andrea Tocchio](/artists/andrea_tocchio/)
+- Metteur en scène assistant : [Agostino Taboga](/artists/agostino_taboga/)
+- Création costumes : Anna Biagiotti (production de l'opéra de Rome)
+- Assistante : Eva Bureau
 - Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
 
 

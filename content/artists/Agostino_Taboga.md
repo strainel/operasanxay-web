@@ -7,6 +7,9 @@ role: Mise en scène
 liveLink: 
 submitDate: 
 show:
+  - role: Metteur en scène assistant
+    title: Nabucco en 2025
+    url : /portfolio/2025_nabucco/
   - role: Mise en scène
     title: Rigoletto en 2016
     url : /portfolio/2016_rigoletto/
