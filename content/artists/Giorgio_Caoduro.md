@@ -1,10 +1,11 @@
 ---
-title: "Rodolphe Briand"
+title: "Giogio Caoduro"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/rodolphe_briand.png
+image: images/artists/giorgio_caoduro.jpg
 role: Baryton
 liveLink: 
+operabase: https://www.operabase.com/giorgio-caoduro-a6260/fr
 submitDate: 
 show:
   - role: Papageno
