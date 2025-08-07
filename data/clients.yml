@@ -6,7 +6,7 @@ partners_vip:
   clients:
     - logo : images/partners/prefet_region.jpg
       link : https://www.culture.gouv.fr/Regions/DRAC-Nouvelle-Aquitaine
-    - logo : images/partners/cmn.png
+    - logo : images/partners/cmn.jpg
       link : https://www.monuments-nationaux.fr
     - logo : images/partners/region-nv-aquitaine.png
       link : https://www.nouvelle-aquitaine.fr
@@ -38,8 +38,8 @@ partners_vip:
       link : https://www.rouille.fr
     - logo : images/partners/vivonne.jpg
       link : https://www.vivonne.fr
-    - logo : images/partners/festival-deux-sevres.jpg
-      link : https://www.deux-sevres.fr/destination-deux-sevres/sortir/les-festivals-en-deux-sevres
+#    - logo : images/partners/festival-deux-sevres.jpg
+#      link : https://www.deux-sevres.fr/destination-deux-sevres/sortir/les-festivals-en-deux-sevres
 
 ############################ AUTRES ################################
 partners_amis:
@@ -49,13 +49,13 @@ partners_amis:
   clients:
     - logo : images/partners/mhv.jpg
       link : https://www.mhv.fr
-    - logo : images/partners/duo_solutions.png
-      link : https://www.duo-solutions.fr
+#    - logo : images/partners/duo_solutions.png
+#      link : https://www.duo-solutions.fr
     - logo : images/partners/futuroscope.png
       link : https://www.futuroscope.com/fr/
     - logo : images/partners/credit-agricole.png
       link : https://www.credit-agricole.fr/ca-tourainepoitou/particulier.html
-    - logo : images/partners/groupe_soregies.png
+    - logo : images/partners/soregies.png
       link : https://www.groupe-soregies.fr
     - logo : images/partners/fabrix.png
       link : https://fabrix.fr
@@ -63,10 +63,10 @@ partners_amis:
       link : https://www.ima.eu/fr/index.php
     - logo : images/partners/technique_solaire.png
       link : https://techniquesolaire.com
-    - logo : images/partners/hotel_alteora.jpg
-      link : https://hotel-alteora-site-du-futuroscope.com
-    - logo : images/partners/drouineau.jpg
-      link : https://www.drouineau1927.fr
+#    - logo : images/partners/hotel_alteora.jpg
+#      link : https://hotel-alteora-site-du-futuroscope.com
+#    - logo : images/partners/drouineau.jpg
+#      link : https://www.drouineau1927.fr
     - logo : images/partners/groupama.jpg
       link :
     - logo : images/partners/intermarche.png
@@ -77,16 +77,22 @@ partners_amis:
       link : https://republic-corner.fr
     - logo : images/partners/strato2.png
       link : 
+    - logo : images/partners/audi.png
+      link : 
     - logo : images/partners/axa.png
       link : 
-    - logo : images/partners/jardin_arcadie.png
-      link : https://jardins-arcadie.fr
+    - logo : images/partners/clos_de_la_ribaudiere.png
+      link : 
+#    - logo : images/partners/jardin_arcadie.png
+#      link : https://jardins-arcadie.fr
     - logo : images/partners/servistores.png
       link : https://www.servistores.com
-    - logo : images/partners/hertz.jpg
+#    - logo : images/partners/hertz.jpg
       link : 
     - logo : images/partners/territoria_mutuelle.png
       link : https://www.territoria-mutuelle.fr 
+    - logo : images/partners/vitalis.jpg
+      link : 
 # mnaque ACTY, AMbulance Melisune, Good Mood
 #    - logo : images/partners/orange.png
 #      link : https://www.orange.com/fr/accueil
@@ -97,11 +103,10 @@ partners_off:
   subtitle : "Merci"
   title : "Partenaires officiels"
   clients:
-# manque alcor
     - logo : images/partners/aurik.png
       link : https://www.aurik.fr
-    - logo : images/partners/bergerault.jpg
-      link : https://www.bergerault.com/fr/
+#    - logo : images/partners/bergerault.jpg
+#      link : https://www.bergerault.com/fr/
     - logo : images/partners/btobeez.jpg
       link : https://www.btobeez.com
     - logo : images/partners/azcom.png
@@ -119,7 +124,8 @@ partners_off:
       link : https://www.eauxdevienne.fr
     - logo : images/partners/sfere.png
       link : http://www.sferebureautique.com
-# manque vitalis
+    - logo : images/partners/alcor.png
+      link : 
 #
 ########################### AUTRES ################################
 partners_autres:
@@ -136,10 +142,10 @@ partners_autres:
       link : https://www.espacedesnations.fr
     - logo : images/partners/goulibeur.png
       link : https://www.goulibeur.com
-    - logo : images/partners/questce_aencrage.png
+    - logo : images/partners/aencrage.jpg
       link : 
-    - logo : images/partners/jubert.jpg
-      link : http://www.jubert.fr
+#    - logo : images/partners/jubert.jpg
+#      link : http://www.jubert.fr
     - logo : images/partners/loc_4_event.png
       link : http://www.loc4event.fr
     - logo : images/partners/maison_clochard.png
@@ -151,8 +157,10 @@ partners_autres:
       link : http://nuances-pianos.fr
     - logo : images/partners/toilettes_co.gif
       link : https://www.toilettesandco.com
-    - logo : images/partners/toyota_touzalin.jpg
+    - logo : images/partners/toyota.png
       link : https://toyota-occasions-poitiers.espacevo.fr
+    - logo : images/partners/petit_courault.png
+      link : https://www.petitcourault.com
 #    - logo : images/partners/lusagri.jpg
 #      link : 
 #    - logo : images/partners/citroen.png
@@ -170,7 +178,7 @@ partners_media:
       link : https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/
     - logo : images/partners/centre_presse.png
       link : https://www.centre-presse.fr
-    - logo : images/partners/francebleu_poitou.jpg
+    - logo : images/partners/ici_poitou.png
       link : https://www.radiofrance.fr/professionnels/regie-publicitaire/france-bleu?tag=poitou
 #    - logo : images/partners/bfm.png
 #      link : https://www.bfm.fr
