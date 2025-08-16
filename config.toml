@@ -53,7 +53,7 @@ weight = 6
 [params]
 logo = "images/logo_sls.png"
 home = "Accueil"
-description = "Site de l'association des soirées lyriques de Sanxay"
+description = "Site des Soirées Lyriques de Sanxay, association loi 1901 dédiée à la production d'opéra"
 author = "Association des Soirées Lyriques de Sanxay"
 
 # footer content

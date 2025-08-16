@@ -31,7 +31,7 @@ coming:
   mapSubtitle : >
     Si vous êtes de passage dans la Vienne, vous pouvez venir nous rencontrer dans le local de l'association à SANXAY
   frameCarpooling : 
-    enable : true
+    enable : false
     link : https://app.covoiturage-simple.com/sanxay?event=2447
 
 ######################### pricing ############################
@@ -44,7 +44,7 @@ pricing:
   description: "Le site en ligne permet de choisir et d'acheter les places numérotées (PN) ou en placement libre (PL), dont
                 les prix sont indiqués ci-dessous."
   details: "PN = Place numérotée. PL = Placement libre. <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
-  link : "https://my.weezevent.com/nabucco-aout-2025-1"
+  #link : "https://my.weezevent.com/nabucco-aout-2025-1"
   pricing_item:
     # pricing table loop
     - name : "Orchestre centrale"
