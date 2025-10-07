@@ -21,9 +21,9 @@ banner:
     label : "Découvrir"
     link : "portfolio/2025_petiteflute/"
   button2:
-    enable : TRUE
+    enable : true
     label : "Acheter maintenant"
-    link : "hhttps://my.weezevent.com/la-petite-flute"
+    link : "https://my.weezevent.com/la-petite-flute"
 
 ################### Service #################################
 service:
