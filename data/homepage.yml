@@ -1,27 +1,29 @@
 ######################## Banner ############################
 banner:
   enable : true
-  bg_image: "/images/portfolios/2014_nabucco/2014_nabucco_19.jpg"
+  bg_image: "/images/portfolios/2017_flute/2017_flute_01.jpg"
   title : "Soirées Lyriques <br>de Sanxay"
-#  content : "XXVe édtion - Nabucco - 9, 11 et 13 août 2025<br> 
-#             Site antique gallo-romain de Sanxay<br><br>
-#             Un opéra en plein air cet été dans un lieu exceptionnel ? 
-#             Découvrez la production 2025 et réservez dès à présent vos places !"
-  content : "XXVe édtion - Nabucco - 9, 11 et 13 août 2025<br> 
+  content : "XXVIe édtion - La Flûte enchantée - 8, 10 et 12 août 2026<br> 
              Site antique gallo-romain de Sanxay<br><br>
-             Merci à notre public fidèle, à tous les nouveaux spectateurs,<br>
-             à tous les bénévoles, à tous les artistes !<br>
-             Merci aux mécènes et aux sponsors institutionnels !<br>
-             À l'année prochaine !"
+             Mais en attendant, profitez de la Petite flûte,
+             une adaptation de l'oeuvre incontournable de Mozart adaptée pour les enfants !"
+  #           Un opéra en plein air cet été dans un lieu exceptionnel ? 
+  #           Découvrez la production 2025 et réservez dès à présent vos places !"
+  # content : "XXVe édtion - Nabucco - 9, 11 et 13 août 2025<br> 
+  #            Site antique gallo-romain de Sanxay<br><br>
+  #            Merci à notre public fidèle, à tous les nouveaux spectateurs,<br>
+  #            à tous les bénévoles, à tous les artistes !<br>
+  #            Merci aux mécènes et aux sponsors institutionnels !<br>
+  #            À l'année prochaine !"
   scrolling: "Plus bas"
   button:
     enable : true
     label : "Découvrir"
-    link : "portfolio/2025_nabucco/"
+    link : "portfolio/2025_petiteflute/"
   button2:
-    enable : false
+    enable : TRUE
     label : "Acheter maintenant"
-    link : "https://my.weezevent.com/nabucco-aout-2025-1"
+    link : "hhttps://my.weezevent.com/la-petite-flute"
 
 ################### Service #################################
 service:
@@ -40,7 +42,7 @@ service:
                  auprès d'un public varié, venu de la Vienne, des Deux-Sèvres, mais aussi
                  de la France entière. C'est l'occasion pour beaucoup d'entre eux de 
                  découvrir l’opéra pour la première fois. Les prix des places débutent à 
-                 20 euros et sont de deux à trois fois inférieurs à ceux pratiqués par 
+                 23 euros et sont très inférieurs à ceux pratiqués par 
                  d'autres festivals."
 
     # service item loop
