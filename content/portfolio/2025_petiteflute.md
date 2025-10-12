@@ -3,7 +3,7 @@ title: "2025 - La petite flûte"
 date: 2024-10-17T15:38:38+06:00
 type: opera
 draft: false
-image: "images/portfolios/2025_petiteflute/petiteflute.jpg"
+image: "images/portfolios/2025_petiteflute/petiteflute_2.png"
 author: "Giuseppe Verdi"
 eventdate: "9, 11 et 13 août 2025 à 21h30"
 category: ["opera","mozart"]
