@@ -9,6 +9,9 @@ operabase: https://www.operabase.com/artists/moritz-gnann-12752/fr
 submitDate: 
 show:
   - role: Direction musicale
+    title: La Flûte enchantée en 2026
+    url : /portfolio/2026_flute/
+  - role: Direction musicale
     title: La Bohème en 2024
     url : /portfolio/2024_boheme/
 ---

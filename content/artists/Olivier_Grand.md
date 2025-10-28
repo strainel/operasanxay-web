@@ -8,7 +8,10 @@ role: Baryton
 liveLink: 
 submitDate: 
 show:
-  - role: Benoit/Alcindoro
+  - role: Premier prêtre, deuxième homme d'armes
+    title: La Flûte enchantée en 2026
+    url : /portfolio/2026_flute/
+  - role: Benoit et Alcindoro
     title: La Bohème en 2024
     url : /portfolio/2024_boheme/
   - role: Le Dancaïre

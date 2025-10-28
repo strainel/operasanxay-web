@@ -2,11 +2,15 @@
 title: "Mélanie Boisvert"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/melanie_boisvert.png
+image: images/artists/melanie_boisvert.jpg
+operabase: https://www.operabase.com/melanie-boisvert-a12804/fr
 role: Soprano
 liveLink: 
 submitDate: 
 show:
+  - role: Papagena
+    title: La Flûte enchantée en 2026
+    url : /portfolio/2026_flute/
   - role: Papagena
     title: La Flûte enchantée en 2017
     url : /portfolio/2017_flute/

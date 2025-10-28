@@ -8,6 +8,9 @@ role: Ténor
 liveLink: 
 submitDate: 
 show:
+  - role: Monostatos
+    title: La Flûte enchantée en 2026
+    url : /portfolio/2026_flute/
   - role: Abdallo
     title: Nabucco en 2025
     url : /portfolio/2025_nabucco/

@@ -7,7 +7,10 @@ role: Maîtrise d'enfants
 liveLink: http://knabenstimmen.de/Home/index.html 
 submitDate: 
 show:
-  - role: Les 3 garçons
+  - role: Les 3 génies
+    title: La flûte enchantée en 2026
+    url : /portfolio/2026_flute/
+  - role: Les 3 génies
     title: La flûte enchantée en 2017
     url : /portfolio/2017_flute/
 ---

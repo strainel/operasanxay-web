@@ -2,11 +2,15 @@
 title: "Ahlima Mhamdi"
 type: artists
 date: 2021-03-12T16:59:54+06:00
-image: images/artists/ahlima_mhamdi.jpg
+image: images/artists/ahlima_mhamdi_2.jpg
+operabase: https://www.operabase.com/ahlima-mhamdi-a161/fr
 role: Mezzo-soprano
 liveLink: 
 submitDate: 
 show:
+  - role: Deuxième dame
+    title: La Flûte enchantée en 2026
+    url : /portfolio/2026_flute/
   - role: Mercédès
     title: Carmen en 2021
     url : /portfolio/2021_carmen/

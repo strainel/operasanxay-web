@@ -2,11 +2,14 @@
 title: "Adrien Mathonat"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/adrien_mathonat.png
+image: images/artists/adrien_mathonat.jpg
 role: Basse
 operabase: https://www.operabase.com/artists/adrien-mathonat-2124292/fr
 submitDate: 
 show:
+  - role: Sarastro et L'Orateur
+    title: La Flûte enchantée en 2026
+    url : /portfolio/2026_flute/
   - role: Le Grand Prêtre de Baal
     title: Nabucco en 2025
     url : /portfolio/2025_nabucco/
@@ -19,7 +22,7 @@ show:
 
 ---
 
-_Photo : © Studio J'adore ce que vous faites ! / OnP_
+_Photo : © Harcourt_
 
 Après ses études de physique, Adrien Mathonat commence sa formation musicale par l'apprentissage de la trompette et du tuba. Il obtient le Diplôme d'Etude Musciale (DEM) en 2017 et découvre ensuite la voix. Il s'oriente alors vers des études de chant lyrique.
 

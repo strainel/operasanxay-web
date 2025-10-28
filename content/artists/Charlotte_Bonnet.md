@@ -2,12 +2,15 @@
 title: "Charlotte Bonnet"
 type: artists
 date: 2021-03-12T16:59:54+06:00
-image: images/artists/charlotte_bonnet.jpg
+image: images/artists/charlotte_bonnet_2.jpg
 operabase: https://www.operabase.com/artists/charlotte-bonnet-45487/fr
 role: Soprane
 liveLink: 
 submitDate: 
 show:
+  - role: Première dame
+    title: La Flûte enchantée en 2026
+    url : /portfolio/2026_flute/
   - role: Musetta
     title: La Bohème en 2024
     url : /portfolio/2024_boheme/

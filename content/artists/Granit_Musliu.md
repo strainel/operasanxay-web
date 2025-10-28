@@ -2,15 +2,17 @@
 title: "Granit Musliu"
 type: artists
 date: 2018-07-12T16:59:54+06:00
-image: images/artists/granit_musliu.jpg
+image: images/artists/granit_musliu_2.jpg
 role: Ténor
 operabase: https://www.operabase.com/artists/granit-musliu-116730/reviews/fr
 submitDate: 
 show:
+  - role: Tamino
+    title: La Flûte enchantée en 2026
+    url : /portfolio/2026_flute/
   - role: Don Ottavio
     title: Don Giovanni en 2023
     url : /portfolio/2023_dongiovanni/
-
 ---
 
 Né à Mitrovica (Kosovo), Granit Musliu a reçu sa formation vocale à l'Université de Pristina. Depuis 2019 il se perfectionne à la Hochschule für Musik und Theater Hamburg avec Geert Smits et Caroline Merz.
