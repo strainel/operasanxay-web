@@ -11,7 +11,7 @@ source: Opéra en deux actes de Wolfgang Amadeus Mozart, livret de Emanuel Schik
 created: Création le 30 septembre 1791 au Théâtre Schikaneder de Vienne
 ---
 
-### Un opéra spectaculaire
+### Un opéra mythique
 
 Envoyé par la Reine de la nuit, le jeune prince Tamino croit devoir arracher la douce Pamina aux griffes du redoutable Sarastro, que l’on lui dépeint comme un despote cruel. Mais derrière cette mission se cache une épreuve initiatique où vérité et illusion se confondent. Guidé d’abord par les mystérieuses trois Dames, Tamino partage la route avec Papageno, oiseleur fantasque et peureux, dont l’humour et la simplicité tranchent avec la noblesse du héros. À chacun est confié un objet magique : un carillon enchanté pour l’un, une flûte aux pouvoirs merveilleux pour l’autre, instruments qui deviennent autant de clés pour franchir les obstacles et révéler leur destinée.  
 
