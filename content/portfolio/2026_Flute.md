@@ -3,7 +3,7 @@ title: "2026 : La Flûte enchantée"
 type: opera
 date: 2025-10-22T16:59:54+06:00
 author: Wolfgang Amadeus Mozart
-image: images/portfolios/2017_flute/2017_flute_01.jpg
+image: images/portfolios/2026_flute/2026_flute_01.jpg
 category: ["opera","mozart"]
 liveLink: 
 eventdate: 8, 10 et 12 août 2026 à 21h30

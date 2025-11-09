@@ -24,14 +24,14 @@ coming:
     - name : Par navette-bus depuis Poitiers
       content : Une **navette spéciale au départ de la gare de Poitiers** est proposée 
           chaque soir de spectacle. Le départ se fait à la gare routière à 18h45. Un arrêt sera marqué à **Vouneuil-Nougeraie**, à 19h.
-          La navette est gratuite le samedi 9 août et payante les lundi 11 et mercredi 13 août (si achat du billet dans le bus, 
-          le tarif est de 2 € par trajet, soit 4 € pour un aller-retour).
-          **Réservation obligatoire dans tous les cas**. Renseignements au 05 49 44 95 38
+          La navette est gratuite le jeudi 6 août et payante les samedi 8, lundi 10 et mercredi 12 août. Si achat du billet dans le bus, 
+          le tarif est de 2 € par trajet, soit 4 € pour un aller-retour.
+          **[Réservation en ligne](https://my.weezevent.com/PMR-NAVETTE-2026) obligatoire dans tous les cas** 
   mapTitle    : La carte
   mapSubtitle : >
     Si vous êtes de passage dans la Vienne, vous pouvez venir nous rencontrer dans le local de l'association à SANXAY
   frameCarpooling : 
-    enable : false
+    enable : true
     link : https://app.covoiturage-simple.com/sanxay?event=2447
 
 ######################### pricing ############################
@@ -44,7 +44,7 @@ pricing:
   description: "Le site en ligne permet de choisir et d'acheter les places numérotées (PN) ou en placement libre (PL), dont
                 les prix sont indiqués ci-dessous."
   details: "PN = Place numérotée. PL = Placement libre. <br/> Tarif réduit pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif) - Tarif jeune pour les moins de 25 ans (sur justificatif)"
-  #link : "https://my.weezevent.com/nabucco-aout-2025-1"
+  link: "https://my.weezevent.com/la-flute-enchantee-aout-2026"
   pricing_item:
     # pricing table loop
     - name : "Orchestre centrale"

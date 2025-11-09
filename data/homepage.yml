@@ -5,10 +5,10 @@ banner:
   title : "Soirées Lyriques <br>de Sanxay"
   content : "XXVIe édtion - La Flûte enchantée - 8, 10 et 12 août 2026<br> 
              Site antique gallo-romain de Sanxay<br><br>
-             Mais en attendant, profitez de la Petite flûte,
-             une adaptation de l'oeuvre incontournable de Mozart adaptée pour les enfants !"
-  #           Un opéra en plein air cet été dans un lieu exceptionnel ? 
-  #           Découvrez la production 2025 et réservez dès à présent vos places !"
+             Un opéra en plein air cet été dans un lieu exceptionnel.
+             Découvrez la production 2026 et réservez dès à présent vos places !
+             <br><bt>Pour patienter, découvrez _La Petite flûte_,
+             une adaptation de l'oeuvre incontournable de Mozart pour les enfants !"
   # content : "XXVe édtion - Nabucco - 9, 11 et 13 août 2025<br> 
   #            Site antique gallo-romain de Sanxay<br><br>
   #            Merci à notre public fidèle, à tous les nouveaux spectateurs,<br>
@@ -19,11 +19,11 @@ banner:
   button:
     enable : true
     label : "Découvrir"
-    link : "portfolio/2025_petiteflute/"
+    link : "portfolio/2026_flute/"
   button2:
     enable : true
     label : "Acheter maintenant"
-    link : "https://my.weezevent.com/la-petite-flute"
+    link : "https://my.weezevent.com/la-flute-enchantee-aout-2026"
 
 ################### Service #################################
 service:
