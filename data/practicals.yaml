@@ -4,7 +4,7 @@ coming:
   title: Venir à Sanxay !
   subtitle: Les transports possibles
   description: Plusieurs solutions sont envisageables pour venir à Sanxay 
-      et profiter d'une soirée opéra sous les étoiles.'
+      et profiter d'une soirée opéra sous les étoiles.
   coming_item:
     - name : En voiture
       content : Par l'autoroute A10. Si vous venez depuis Paris, ce sera la sortie 30.
@@ -14,7 +14,7 @@ coming:
     - name : Par covoiturage
       content : Pensez développement durable, utilisez ou proposez du covoiturage à d’autres festivaliers ! 
           Une belle occasion d’échanger sur l’opéra et le festival de Sanxay. Jetez un oeil sur la carte de
-          [covoiturage simple](https://covoiturage-simple.com/sanxay/) proposé
+          [covoiturage simple](https://covoiturage-simple.com/sanxay/evenements?period=upcoming) proposé
           par notre partenaire institutionnel du Grand Poitiers.
           <!-- Vous pouvez aussi tenter votre chance sur les sites [blablacar](https://blablacar.fr) ou 
           [carpooling](https://www.europe-carpooling.com). -->
@@ -22,9 +22,9 @@ coming:
       content : Plusieurs gares sont proches de Sanxay. La gare de **Poitiers** est à 30 minutes 
           de Sanxay, celle de **Saint-Maixent-l'école** à 25 minutes, celle de **Lusignan** à 15 minutes.
     - name : Par navette-bus depuis Poitiers
-      content : Une **navette spéciale au départ de la gare de Poitiers** est proposée 
-          chaque soir de spectacle. Le départ se fait à la gare routière à 18h45. Un arrêt sera marqué à **Vouneuil-Nougeraie**, à 19h.
-          La navette est gratuite le jeudi 6 août et payante les samedi 8, lundi 10 et mercredi 12 août. Si achat du billet dans le bus, 
+      content : Une **navette spéciale au départ de la gare de Poitiers** est proposée chaque soir de spectacle.
+          Le départ se fait à la gare routière à 18h45. Un arrêt sera marqué à **Vouneuil-Nougeraie**, à 19h.
+          La navette est payante sauf le samedi. Si achat du billet dans le bus, 
           le tarif est de 2 € par trajet, soit 4 € pour un aller-retour.
           **[Réservation en ligne](https://my.weezevent.com/PMR-NAVETTE-2026) obligatoire dans tous les cas** 
   mapTitle    : La carte
