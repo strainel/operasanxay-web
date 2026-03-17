@@ -22,7 +22,7 @@ Peu à peu, le voile se déchire : ce n’est pas Sarastro qui incarne la noirce
 
 - Direction musicale : [Moritz Gnann](/artists/moritz_gnann)
 - Mise en scène, scénographie, créaton lumières : [Andrea Tocchio](/artists/andrea_tocchio/)
-- Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
+- Chef de choeur : [Emmanuel Trenque](/artists/emmanuel_trenque/)
 
 ### Distribution
 
