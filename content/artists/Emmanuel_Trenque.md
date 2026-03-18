@@ -3,8 +3,8 @@ title: "Emmanuel Trenque"
 type: artists
 date: 2026-02-12T16:59:54+06:00
 image: images/artists/emmanuel_trenque.png
-role: Mise en scène
-liveLink: 
+role: Chef de choeur
+operabase: https://www.operabase.com/emmanuel-trenque-a5009/fr
 submitDate: 
 show:
   - role: Chef de choeur
