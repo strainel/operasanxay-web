@@ -103,7 +103,7 @@ partners_off:
   subtitle : "Merci"
   title : "Partenaires officiels"
   clients:
-    - logo : images/partners/aurik.png
+    - logo : images/partners/aurik.jpg
       link : https://www.aurik.fr
 #    - logo : images/partners/bergerault.jpg
 #      link : https://www.bergerault.com/fr/
