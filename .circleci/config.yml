@@ -7,6 +7,7 @@ jobs:
             - run:
                   name: Installation des prérequis
                   command: |
+                      mv /etc/apt/sources.list.d/nodesource.list /etc/apt/sources.list.d/nodesource.list.disabled
                       apt-get update && apt-get install -y lftp
             - run:
                   # Récupération du code manuel car soucis avec "- checkout"
