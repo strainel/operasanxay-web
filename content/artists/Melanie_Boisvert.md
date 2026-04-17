@@ -16,10 +16,52 @@ show:
     url : /portfolio/2017_flute/
 ---
 
-Après des études de piano et de chant à Toronto et à Cologne, la soprano canadienne fait ses débuts en 2002 en France dans le rôle d’Olympia (*Les Contes d’Hoffmann*) à l’Opéra national du Rhin. Elle chante dans de nombreux théâtres et Festivals en France et à l’étranger, et notamment au Grand Théâtre de Luxembourg, au Festival Radio-France à Montpellier, au Théâtre royal de la Monnaie à Bruxelles, au Volksoper de Vienne, à Liège, Vienne, Gênes, Strasbourg, Lyon, à Nancy à l’Opéra national de Lorraine, Avignon, Saint-Etienne, Toulon, Nice, Rennes, Rouen, Bordeaux, Ottawa, Québec... Parmi ses rôles interprétés sur scène on compte  la Reine de la nuit (*La Flûte enchantée*), Zerbinetta (*Ariane à Naxos* de Strauss), Lakmé, Oscar (*Un Bal masqué*), Nannetta (*Falstaff*), le Rossignol de Stravinsky, la Charmeuse (*Thaïs*), la Fée (*Cendrillon*), Ännchen (*Der Freischütz*), Feu, Princesse et Rossignol dans *L’Enfant et les sortilèges*, Gabrielle (*La Vie parisienne*), Olympia (*Les Contes d’Hoffmann*), Tytania (*Le Songe d'une nuit d'été*), Clorinda (*La Cenerentola*), Cunégonde (*Candide*), Fiakermilli (*Arabella*), Adèle (*La Chauve-Souris*)...
+Après des études de piano et de chant à Toronto et à Cologne, la soprano canadienne fait ses débuts
+remarqués en 2002 en France dans le rôle d’Olympia (*Les Contes d’Hoffmann*) à l’Opéra national du Rhin.
 
-Elle interprète Le Voyage d’hiver au Théâtre de l’Athénée et collabore en tant que soliste avec des orchestres tels L’Ensemble Orchestral de Paris et Laurence Equilbey à la Cité de la Musique, l’Orchestre national de Lorraine ou l’Orchestre symphonique de Montréal. Elle chante sous la baguette d’Evelino Pidò, Patrick Davin, Claude Schnitzler, Alain Altinoglu, Jacques Lacombe, Eve Queler, Frank Ollu, Jan Lathan-Roenig...  Au disque pour Timpani, elle interprète Aucassin et Nicolette (Paul Le Flem) et enregistre les Mélodies de Philippe Gaubert. On peut l’entendre dans Jeanne d’Arc au Bûcher de Honneger (la vierge) dans l’enregistrement DVD chez ARTE, primé aux Victoires de la Musique 2008.
+En 2025-2026, Mélanie Boisvert incarne le rôle principal de la Gouvernante dans *The Turn of the Screw* 
+de Britten au Oldenburgisches Staatstheater en Allemagne, puis elle reprend avec l’Ensemble Nigella 
+*L’enfant et les sortilèges* de Ravel aux Festival des Journées Ravel en Yvelines.
+Elle chante également Pamina, la Reine de la nuit et Papagena dans *La petite flûte* au Théâtre de la Hune
+avec Les Soirées Lyriques de Sanxay dans une version jeune public de *la Flûte Enchantée*. la Second Weird Sister
+dans *Macbeth Underworld* de Pascal Dusapin et Thomas Joly à l’Opéra-Comique et la soprano solo dans *200 Motels* 
+de Franck Zappa à l'Opéra de Nice Côte d’Azur. Elle reprendra également le rôle
+d’Elisabeth dans *Les Enfants terribles* de P. Glass dans une nouvelle tournée de la Coopérative.
 
-Parmi ses engagements récents, citons Gabrielle (La Vie parisienne) à l’Opéra de Saint-Etienne et à Strasbourg, Adèle (La Chauve-Souris) au Folies d'Ô à Montpellier, L'Enfant et les sortilèges au Festival Nigella, un concert Bernstein avec l'Orchestre Symphonique de Pékin, Les Jeux de l’amour et d’Offenbach au Théâtre de Poche Montparnasse à Paris,  Tytania (A Midsummer Night’s Dream) à Metz, La Soprano (Opéra de 4 notes) à Amiens et au Studio de l'Opéra Bastille, Prothoe (Penthesilea / Dusapin / doublure) à la Monnaie de Bruxelles, Lakmé à Metz,  Oscar (Un ballo in maschera) à Tours, la Fée (Cendrillon) à St-Etienne et Luxembourg...
+Très récemment, elle assurait le rôle-titre de *Lulu* de Berg en doublure à La Monnaie de Bruxelles, 
+sous la baguette d’Alain Altinoglu, et reprennait *Le Cosmicomiche* de Reverdy au Festival Manca, Opéra de Nice,
+ainsi que *Kein Licht* de Philippe Manoury au Holland Festival d’Amsterdam. 
+Elle chante également depuis 2022 Elisabeth dans *Les Enfants terribles* de Philipp Glass en tournée en France
+avec la Co-opéra-tive.
 
-Habituée de la création contemporaine, elle crée récemment les rôles de l’Hôtessse dans *La nuit de Gutenberg* de P. Manoury à Strasbourg, l’Infirmière dans Aliados de S. Rivas au Festival Musica de Strasbourg et en tournée européenne, Céleste dans Céleste ma planète de S. Gaxie avec l’Orchestres national d’Île-de-France à la Salle Pleyel (et enregistrement studio pour Gallimard), Le Signe de F. Verrières avec l’Orchestre Symphonique de Mulhouse…
+Mélanie Boisvert a incarné le rôle-titre de la femme (die Frau) dans *Von Heute auf Morgen* de Schönberg, 
+ainsi que Jeanne dans *Les Trois baisers du diable* d’Offenbach au Théâtre de l'Athénée à Paris.
+Elle a aussi créé les rôles suivants : Mme B. dans *Rayon „N“* de S. Rivas avec la compagnie T&M et 
+l'Ensemble Intercontemporain, la soprano solo dans *200 Motels* de Frank Zappa à la Philharmonie de Paris et au Festival Musica de Strasbourg, l'Infirmière
+dans Aliados de S. Rivas à la Biennale de Venise, la soprano dans Le Cosmicomiche de Michèle Reverdy à l’Opéra de
+Toulon et Olympia dans Les Folies d’Offenbach avec au Festival de Montpellier. Elle collabore avec la Monnaie/de
+Munt dans les créations de P. Dusapin-Penthesilea (Protoe)et Macbeth Underworld(1st Weird Sister). Elle a donné des
+concerts avec l’Orchestre d’Aquitaine sous la direction de Laurent Campellone, et des concerts Stravinski-Delage
+avec l’Ensemble Nigella aux Journées Ravel.
+
+
+Mélanie Boisvert a chanté Papagena dans *La flûte enchantée* aux Soirées Lyriques de Sanxay en 2017.
+Les rôles-phares de sa carrière sont : *la Reine de la nuit* (Volksoper Wien, Opéra de Tours, Teatro Carlo Felice
+Genua), Zerbinetta dans *Ariane à Naxos* (Opéra de Tours), *Lakmé* (Opéra de Metz), Oscar dans *Un Bal masqué* 
+(Opéra de Tours), Nannetta dans *Falstaff* (Opéra national du Rhin à Strasbourg), le rôle-titre du *Rossignol* 
+de Stravinsky (Opéra national du Rhin), la Charmeuse dans *Thaïs* (Opéra d’Avignon, Opéra de Tours), 
+la Fée dans *Cendrillon* de Massenet (Grand Théâtre du Luxembourg, Opéra de St-Etienne), Ännchen dans le *Freischütz* 
+(Opéra de Toulon, Opéra de Saint-Etienne), le Feu, la Princesse et Le Rossignol dans *L’Enfant et les sortilèges*
+(Opéra national de Lorraine), Gabrielle dans *La Vie parisienne* (Opéra national du Rhin, Opéra de Lyon,
+Opéra de Saint-Etienne, Opéra de Québec, Opéra National de Lorraine), Tytania dans *A Midsummer Night’s Dream*
+(Opéra de Nice, Opéra de Metz), Cunégonde dans *Candide* (Opéra de Rennes et Rouen) dans de nombreux théâtres 
+et festivals en France et à l’étranger, notamment au Grand Théâtre de Luxembourg, au Festival Radio-France à Montpellier,
+au Théâtre royal de la Monnaie, au Volksoper de Vienne, à Liège, Vienne, Gênes, Strasbourg, Lyon, Nancy, Avignon,
+Saint-Etienne, Toulon, Nice, Rennes, Rouen, Bordeaux, Montréal, Ottawa, Québec, Pékin...
+Elle collabore en tant que soliste avec Alain Altinoglu, Evelino Pidò, Jan Latham-Koenig, Laurence Equilbey...
+
+Au disque pour *Timpani*, elle enregistre *Aucassissin et Nicolette* (Paul Le Flem) et les mélodies de Philippe Gaubert.
+On peut l’entendre dans *Jeanne d’Arc au bûcher* de Honneger (la Vierge) dans l’enregistrement DVD chez ARTE, primé
+aux Victoires de la Musique 2008, puis Céleste, ma planète avec l’Orchestre national d’Ile-de-France.
+En 2022 elle enregistre en CD *Von Heute auf Morgen* de Schönberg avec l'Ensemble Nigella.
+
