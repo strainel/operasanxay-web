@@ -61,8 +61,8 @@ partners_amis:
       link : https://fabrix.fr
     - logo : images/partners/groupe_ima.png
       link : https://www.ima.eu/fr/index.php
-    - logo : images/partners/technique_solaire.png
-      link : https://techniquesolaire.com
+#    - logo : images/partners/technique_solaire.png
+#      link : https://techniquesolaire.com
 #    - logo : images/partners/hotel_alteora.jpg
 #      link : https://hotel-alteora-site-du-futuroscope.com
 #    - logo : images/partners/drouineau.jpg
@@ -77,8 +77,6 @@ partners_amis:
       link : https://republic-corner.fr
     - logo : images/partners/strato2.png
       link : 
-    - logo : images/partners/audi.png
-      link : 
     - logo : images/partners/axa.png
       link : 
     - logo : images/partners/clos_de_la_ribaudiere.png
@@ -89,8 +87,8 @@ partners_amis:
       link : https://www.servistores.com
 #    - logo : images/partners/hertz.jpg
       link : 
-    - logo : images/partners/territoria_mutuelle.png
-      link : https://www.territoria-mutuelle.fr 
+#    - logo : images/partners/territoria_mutuelle.png
+#      link : https://www.territoria-mutuelle.fr 
     - logo : images/partners/vitalis.jpg
       link : 
 # mnaque ACTY, AMbulance Melisune, Good Mood
@@ -153,14 +151,20 @@ partners_autres:
 # manque maison de la peinture 
     - logo : images/partners/melon_haut_poitou.png
       link : https://melon-hautpoitou.fr
+    - logo : images/partners/newloc.png
+      link : https://www.newloc.fr
     - logo : images/partners/nuances_pianos.jpg
       link : http://nuances-pianos.fr
     - logo : images/partners/toilettes_co.gif
       link : https://www.toilettesandco.com
-    - logo : images/partners/toyota.png
-      link : https://toyota-occasions-poitiers.espacevo.fr
+#    - logo : images/partners/toyota.png
+#      link : https://toyota-occasions-poitiers.espacevo.fr
     - logo : images/partners/petit_courault.png
       link : https://www.petitcourault.com
+    - logo : images/partners/audi.png
+      link : 
+    - logo : images/partners/vehipub.png
+      link : 
 #    - logo : images/partners/lusagri.jpg
 #      link : 
 #    - logo : images/partners/citroen.png
