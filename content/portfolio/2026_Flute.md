@@ -21,12 +21,12 @@ Peu à peu, le voile se déchire : ce n’est pas Sarastro qui incarne la noirce
 ### Equipe artistique
 
 - Direction musicale : [Moritz Gnann](/artists/moritz_gnann)
-- Mise en scène, scénographie, créaton lumières : [Andrea Tocchio](/artists/andrea_tocchio/)
+- Mise en scène, scénographie, création lumières : [Andrea Tocchio](/artists/andrea_tocchio/)
 - Chef de choeur : [Emmanuel Trenque](/artists/emmanuel_trenque/)
 
 ### Distribution
 
-- Tamino : [Granit Musliu](/artists/granit_musliu/)
+- Tamino : [Igor Zhuravskii](/artists/igor_zhuravskii/)
 - Pamina : [Lilit Davtyan](/artists/lilit_davatyan/)
 - Papageno : [Danylo Matviienko](/artists/danylo_matviienko/)
 - La Reine de la nuit : [Lucie Kaňková](/artists/lucie_kankova/)

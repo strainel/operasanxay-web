@@ -7,9 +7,6 @@ role: Ténor
 operabase: https://www.operabase.com/artists/granit-musliu-116730/reviews/fr
 submitDate: 
 show:
-  - role: Tamino
-    title: La Flûte enchantée en 2026
-    url : /portfolio/2026_flute/
   - role: Don Ottavio
     title: Don Giovanni en 2023
     url : /portfolio/2023_dongiovanni/
