@@ -26,7 +26,7 @@ Peu à peu, le voile se déchire : ce n’est pas Sarastro qui incarne la noirce
 
 ### Distribution
 
-- Tamino : [Igor Zhuravskii](/artists/igor_zhuravskii/)
+- Tamino : [Egor Zhuravskii](/artists/egor_zhuravskii/)
 - Pamina : [Lilit Davtyan](/artists/lilit_davatyan/)
 - Papageno : [Danylo Matviienko](/artists/danylo_matviienko/)
 - La Reine de la nuit : [Lucie Kaňková](/artists/lucie_kankova/)

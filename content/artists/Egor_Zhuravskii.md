@@ -1,5 +1,5 @@
 ---
-title: "Igor Zhuravskii"
+title: "Egor Zhuravskii"
 type: artists
 date: 2021-03-12T16:59:54+06:00
 image: images/artists/igor_zhuravskii.png
