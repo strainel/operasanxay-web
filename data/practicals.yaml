@@ -34,6 +34,20 @@ coming:
     enable : true
     link : https://app.covoiturage-simple.com/sanxay?event=2447
 
+
+######################### dining ############################
+dining:
+  enable: true
+  title: Découvrez le village Restauration
+  subtitle: Pour tous les goûts !
+  description: "Vivez au rythme du festival dès 19h et profitez d’une belle soirée 
+      d’été conviviale et gourmande sur le site du théâtre gallo-romain.
+      Plusieurs espaces vous accueillent pour vous restaurer et boire un verre : 
+      bar à vins, bars à champagne et à huîtres, sandwiches, hot-dogs, plateaux-repas, 
+      boissons chaudes et froides, friandises, etc."
+  image: images/about/dining.jpg
+
+
 ######################### pricing ############################
 pricing:
   enable : true

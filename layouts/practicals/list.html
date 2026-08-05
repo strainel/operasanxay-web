@@ -51,6 +51,37 @@
 
 <!-- Pricing Section End -->
 
+
+<!-- Dining Section Start -->
+{{ if .Site.Data.practicals.dining.enable }}
+{{ with .Site.Data.practicals.dining }}
+<section class="team section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-5">
+        <div class="section-title">
+          <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
+          <h1><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h1>
+        </div>
+
+        <div class="work-single-image">
+          {{ .description | markdownify }}
+        </div>
+
+        <div class="work-single-image">
+          <img class="img-fluid w-80" src="{{ .image | absURL }}">
+        </div>        
+
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
+{{ end }}
+<!-- Dining Section Start -->
+
+
 <!-- Coming Section Start -->
 {{ if .Site.Data.practicals.coming.enable }}
 {{ with .Site.Data.practicals.coming }}
