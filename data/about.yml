@@ -36,8 +36,11 @@ team:
     - name  : Daniel Breton
       designation : Trésorier
 
-    - name  : Laëtitia Chaignault
+    - name  : Françoise Gazeau
       designation : Secrétaire
+
+    - name  : Laëtitia Chaignault
+      designation : Secrétaire adjointe
 
     # team member loop
     #- name : "Mehedi Titash"
