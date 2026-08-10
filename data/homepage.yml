@@ -78,6 +78,7 @@ portfolio:
   subtitle : "Les productions"
   title : "Découvrir les <br>productions"
   button : "Toutes les productions"
+  link : /portfolio
   # portfolio item comes from `content/work/` folder
 
 
@@ -109,11 +110,14 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Actualités ? <br>Question ?"
-  content : "Vous souhaitez recevoir régulièrement les actualités des Soirées Lyriques
-    de Sanxay ? Ou adhérer au comité de soutien ? Ou nous faire part de votre expérience ? 
+  title : "Restons en conctact !"
+  content : "Vous souhaitez vous abonner à l'infolettre et ainsi recevoir  
+    les actualités des Soirées Lyriques de Sanxay ?</br>
+    Ou adhérer au comité de soutien ?</br>
+    Ou nous faire part de votre expérience ?</br>
+    Ou poser une question ?</br>
     Nous sommes à votre écoute."
   button:
     enable : true
-    label : "Contactez-nous !"
+    label : "C'est ici pour rester en contact !"
     link : "contact"
