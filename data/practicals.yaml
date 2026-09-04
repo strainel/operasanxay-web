@@ -31,7 +31,7 @@ coming:
   mapSubtitle : >
     Si vous êtes de passage dans la Vienne, vous pouvez venir nous rencontrer dans le local de l'association à SANXAY
   frameCarpooling : 
-    enable : true
+    enable : false
     link : https://app.covoiturage-simple.com/sanxay?event=2447
 
 
