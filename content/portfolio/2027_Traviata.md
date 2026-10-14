@@ -3,7 +3,7 @@ title: "2027 : La Traviata"
 type: opera
 date: 2026-10-10T16:59:54+06:00
 author: Giuseppe Verdi
-image: images/portfolios/2027_traviata/2027_traviata_affiche_provisoire.jpeg
+image: images/portfolios/2027_traviata/2027_traviata_affiche_Provisoire.jpeg
 category: ["opera","verdi"]
 liveLink: 
 eventdate: 9, 11 et 13 août 2027 à 21h30
