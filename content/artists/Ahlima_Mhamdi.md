@@ -8,6 +8,9 @@ role: Mezzo-soprano
 liveLink: 
 submitDate: 
 show:
+  - role: Flora Bervoix
+    title: La Traviata en 2027
+    url : /portfolio/2027_traviata/
   - role: Deuxième dame
     title: La Flûte enchantée en 2026
     url : /portfolio/2026_flute/

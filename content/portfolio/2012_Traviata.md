@@ -6,7 +6,7 @@ author: Giuseppe Verdi
 image: images/portfolios/2012_traviata/2012_traviata_01.jpg
 category: ["opera","verdi"]
 liveLink: 
-eventdate: 9, 11, 14 et 16 oût 2012 à 21h30
+eventdate: 9, 11, 14 et 16 août 2012 à 21h30
 source: Livret de Francesco Maria Piave d’après La Dame aux camélias d’Alexandre Dumas fils
 ---
 

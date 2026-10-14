@@ -8,6 +8,9 @@ role: Ténor
 liveLink: 
 submitDate: 
 show:
+  - role: Gastone
+    title: La Traviata en 2027
+    url : /portfolio/2027_traviata/
   - role: Monostatos
     title: La Flûte enchantée en 2026
     url : /portfolio/2026_flute/

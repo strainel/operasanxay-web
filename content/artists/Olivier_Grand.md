@@ -8,6 +8,9 @@ role: Baryton
 liveLink: 
 submitDate: 
 show:
+  - role: Le Baron Douphol
+    title: La Traviata en 2027
+    url : /portfolio/2027_traviata/
   - role: Premier prêtre, deuxième homme d'armes
     title: La Flûte enchantée en 2026
     url : /portfolio/2026_flute/
