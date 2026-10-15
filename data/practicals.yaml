@@ -62,34 +62,57 @@ pricing:
   pricing_item:
     # pricing table loop
     - name : "Orchestre centrale"
-      content : "Idéal pour être proche et face à la scène,<br> à partir de 98 €"
+      content : "Idéal pour être proche et face à la scène"
   #    link : ""
       details_item :
-        - "Plein tarif : 114 € pn / 98 € pl"
-        - "Tarif réduit : 103 € pn / 89 € pl"
-        - "Tarif jeune : 57 € pn / 49 € pl"
+        - "Plein tarif : 118 €"
+        - "Tarif réduit : 107 €"
+        - "Tarif jeune : 83 €"
         
-    - name : "Gradin"
-      content : "Admirable pour voir la scène avec un peu de hauteur,<br> à partir de 75 €"
+    - name : "Gradin centre"
+      content : "Admirable pour être face à la scène avec un peu de hauteur"
   #    link : ""
       details_item:
-        - "Plein tarif : 94 € pn / 75 € pl"
-        - "Tarif réduit : 85 € pn / 68 € pl"
-        - "Tarif jeune : 47 € pn / 37,50 € pl"
+        - "Plein tarif : 97 €"
+        - "Tarif réduit : 88 €"
+        - "Tarif jeune : 68 €"
 
-    - name : "Orchestre latérale"
-      content : "Parfait pour être proche de la scène,<br> à partir de 49 €"
+    - name : "Gradin gauche ou droit"
+      content : "Admirable pour voir la scène avec un peu de hauteur"
   #    link : ""
       details_item:
-        - "Plein tarif : 76 € / 49 € pl"
-        - "Tarif réduit : 69 € / 44 € pl"
-        - "Tarif jeune : 38 € / 24,50 € pl"
+        - "Plein tarif : 89 €"
+        - "Tarif réduit : 81 €"
+        - "Tarif jeune : 63 €"
 
-        
+    - name : "Gradin haut"
+      content : "Idéal pour une vue complète de la scnène"
+  #    link : ""
+      details_item:
+        - "Plein tarif : 77 €"
+        - "Tarif réduit : 70 €"
+        - "Tarif jeune : 54 €"
+
+    - name : "Latérale devant gouche ou droit"
+      content : "Parfait pour être proche de la scène"
+  #    link : ""
+      details_item:
+        - "Plein tarif : 78 €"
+        - "Tarif réduit : 71 €"
+        - "Tarif jeune : 55 €"
+
+    - name : "Latérale arrière gauche ou droit"
+      content : "Idéal pour voir la scène avec un peu de hauteur"
+  #    link : ""
+      details_item:
+        - "Plein tarif : 52 €"
+        - "Tarif réduit : 47 €"
+        - "Tarif jeune : 37 €"
+
     - name : "Promenoir gazon"
       content : "Unique pour pique-niquer et profiter d'une vue exceptionnelle de la scène, tarif unique, (**places non accessibles aux personnes à mobilité réduite**)"
   #    link : ""
   #    services:
       details_item:
-        - "23 €"
+        - "26 €"
 
