@@ -63,10 +63,10 @@ comprend trop tard l’ampleur de son amour et de son sacrifice.
 ### Equipe artistique
 
 
-- Direction musicale
-- Mise en scène, scénographie et création lumières
-- Chef de choeur
-- Chorégraphie
+- Direction musicale : Clément Lonca
+- Mise en scène, scénographie et création lumières : [Andrea Tocchio](/artists/andrea_tocchio/)
+- Chef de choeur : [Stefano Visconti](/artists/stefano_visconti/)
+- Chorégraphie : Marc-Emmanuel Zanoli
 
 
 ### Distribution

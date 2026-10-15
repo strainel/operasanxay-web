@@ -8,6 +8,9 @@ operabase: https://www.operabase.com/artists/stefano-visconti-20659/fr
 submitDate: 
 show:
   - role: Chef de choeur
+    title: La Traviata en 2027
+    url : /portfolio/2027_traviata/
+  - role: Chef de choeur
     title: Nabucco en 2025
     url : /portfolio/2025_nabucco/
   - role: Chef de choeur

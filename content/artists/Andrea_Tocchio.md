@@ -8,6 +8,9 @@ operabase: https://www.operabase.com/artists/andrea-tocchio-24643/fr
 submitDate: 
 show:
   - role: Mise en scène, décors et lumières
+    title: La Traviata en 2027
+    url : /portfolio/2027_traviata/
+  - role: Mise en scène, décors et lumières
     title: La Flûte enchantée en 2026
     url : /portfolio/2026_flute/
   - role: Mise en scène, décors et lumières
