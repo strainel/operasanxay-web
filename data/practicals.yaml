@@ -86,14 +86,14 @@ pricing:
         - "Tarif jeune : 63 €"
 
     - name : "Gradin haut"
-      content : "Idéal pour une vue complète de la scnène"
+      content : "Idéal pour une vue complète de la scène"
   #    link : ""
       details_item:
         - "Plein tarif : 77 €"
         - "Tarif réduit : 70 €"
         - "Tarif jeune : 54 €"
 
-    - name : "Latérale devant gouche ou droit"
+    - name : "Latérale devant gauche ou droit"
       content : "Parfait pour être proche de la scène"
   #    link : ""
       details_item:

@@ -57,8 +57,8 @@ partners_amis:
       link : https://www.credit-agricole.fr/ca-tourainepoitou/particulier.html
     - logo : images/partners/soregies.png
       link : https://www.groupe-soregies.fr
-    - logo : images/partners/fabrix.png
-      link : https://fabrix.fr
+#    - logo : images/partners/fabrix.png
+#      link : https://fabrix.fr
     - logo : images/partners/groupe_ima.png
       link : https://www.ima.eu/fr/index.php
 #    - logo : images/partners/technique_solaire.png
@@ -73,8 +73,8 @@ partners_amis:
       link : https://www.intermarche.com
     - logo : images/partners/mutuelle_poitiers.png
       link : https://agence.assurance-mutuelle-poitiers.fr/
-    - logo : images/partners/republic_corner.png
-      link : https://republic-corner.fr
+#    - logo : images/partners/republic_corner.png
+#      link : https://republic-corner.fr
     - logo : images/partners/strato2.png
       link : 
     - logo : images/partners/axa.png
@@ -105,8 +105,8 @@ partners_off:
       link : https://www.aurik.fr
 #    - logo : images/partners/bergerault.jpg
 #      link : https://www.bergerault.com/fr/
-    - logo : images/partners/btobeez.jpg
-      link : https://www.btobeez.com
+#    - logo : images/partners/btobeez.jpg
+#      link : https://www.btobeez.com
     - logo : images/partners/azcom.png
       link : http://www.lubicom.fr/
     - logo : images/partners/poitou_boissons.png
@@ -161,10 +161,10 @@ partners_autres:
 #      link : https://toyota-occasions-poitiers.espacevo.fr
     - logo : images/partners/petit_courault.png
       link : https://www.petitcourault.com
-    - logo : images/partners/audi.png
-      link : 
-    - logo : images/partners/vehipub.png
-      link : 
+#    - logo : images/partners/audi.png
+#      link : 
+#    - logo : images/partners/vehipub.png
+#      link : 
 #    - logo : images/partners/lusagri.jpg
 #      link : 
 #    - logo : images/partners/citroen.png
