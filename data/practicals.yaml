@@ -53,7 +53,7 @@ pricing:
   enable : true
   title: Les tarifs
   subtitle: À chacun sa place !
-  image: images/about/pricing.png
+  #image: images/about/pricing.png
   #description: "**Les préventes pour la production de l'édition 2023 seront possibles pour Noël, jusqu'au 31 décembre !**"
   description: "Le site en ligne permet de choisir et d'acheter les places numérotées (PN) ou en placement libre (PL), dont
                 les prix sont indiqués ci-dessous."
@@ -61,7 +61,7 @@ pricing:
   link: "https://my.weezevent.com/la-flute-enchantee-aout-2026"
   pricing_item:
     # pricing table loop
-    - name : "Orchestre centrale"
+    - name : "Catégorie 1 : centrale"
       content : "Idéal pour être proche et face à la scène"
   #    link : ""
       details_item :
@@ -69,7 +69,7 @@ pricing:
         - "Tarif réduit : 107 €"
         - "Tarif jeune : 83 €"
         
-    - name : "Gradin centre"
+    - name : "Catégorie 2 : gradin centre"
       content : "Admirable pour être face à la scène avec un peu de hauteur"
   #    link : ""
       details_item:
@@ -77,7 +77,7 @@ pricing:
         - "Tarif réduit : 88 €"
         - "Tarif jeune : 68 €"
 
-    - name : "Gradin gauche ou droit"
+    - name : "Catégorie 3 : gradin gauche ou droite"
       content : "Admirable pour voir la scène avec un peu de hauteur"
   #    link : ""
       details_item:
@@ -85,7 +85,7 @@ pricing:
         - "Tarif réduit : 81 €"
         - "Tarif jeune : 63 €"
 
-    - name : "Gradin haut"
+    - name : "Catégorie 4 : gradin haut"
       content : "Idéal pour une vue complète de la scène"
   #    link : ""
       details_item:
@@ -93,24 +93,24 @@ pricing:
         - "Tarif réduit : 70 €"
         - "Tarif jeune : 54 €"
 
-    - name : "Latérale devant gauche ou droit"
-      content : "Parfait pour être proche de la scène"
+    - name : "Catégorie 5 : latérale devant gauche ou droite"
+      content : "Parfait pour être proche de la scène, sur le côté"
   #    link : ""
       details_item:
         - "Plein tarif : 78 €"
         - "Tarif réduit : 71 €"
         - "Tarif jeune : 55 €"
 
-    - name : "Latérale arrière gauche ou droit"
-      content : "Idéal pour voir la scène avec un peu de hauteur"
+    - name : "Catégorie 6 : latérale arrière gauche ou droite"
+      content : "Idéal pour être proche de la scène, sur le côté"
   #    link : ""
       details_item:
         - "Plein tarif : 52 €"
         - "Tarif réduit : 47 €"
         - "Tarif jeune : 37 €"
 
-    - name : "Promenoir gazon"
-      content : "Unique pour pique-niquer et profiter d'une vue exceptionnelle de la scène, tarif unique, (**places non accessibles aux personnes à mobilité réduite**)"
+    - name : "Catégorie 7 : promenoir gazon"
+      content : "Unique pour profiter d'une vue exceptionnelle de la scène, tarif unique, (**places non accessibles aux personnes à mobilité réduite**)"
   #    link : ""
   #    services:
       details_item:

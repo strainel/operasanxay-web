@@ -14,9 +14,11 @@
           <h1><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h1>
         </div>
 
+          {{ with .image }}
         <div class="work-single-image">
-          <img class="img-fluid w-80" src="{{ .image | absURL }}">
+          <img class="img-fluid w-80" src="{{ . | absURL }}">
         </div>
+          {{ end }}
 
       </div>
     </div>
