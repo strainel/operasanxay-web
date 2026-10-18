@@ -55,7 +55,7 @@ partners_amis:
       link : https://www.futuroscope.com/fr/
     - logo : images/partners/credit-agricole.png
       link : https://www.credit-agricole.fr/ca-tourainepoitou/particulier.html
-    - logo : images/partners/soregies.png
+    - logo : images/partners/soregies_fondation.png
       link : https://www.groupe-soregies.fr
     - logo : images/partners/barat.jpg
       link : https://barat.com
@@ -153,6 +153,10 @@ partners_autres:
 # manque maison de la peinture 
     - logo : images/partners/melon_haut_poitou.png
       link : https://melon-hautpoitou.fr
+    - logo : images/partners/transazur_voyages.jpg
+      link : 
+    - logo : images/partners/ynotaires.png
+      link : 
     - logo : images/partners/newloc.png
       link : https://www.newloc.fr
     - logo : images/partners/nuances_pianos.jpg
