@@ -16,5 +16,5 @@ flyer:
 La Petite flûte est une adaptation de la Flûte enchantée de Mozart, en français, à destination des enfants, et avec quelques extraits chantés par le public. On y retrouvera avec bonheur les personnages principaux de ce conte féerique comme le prince Tamino, la princesse Pamina, la redoutable Reine de la nuit et bien sûr Papageno, l’oiseleur jovial...
 
 
-https://my.weezevent.com/la-petite-flute
 
+*Avec le soutien de l'Union européenne, du ministère de la Culture et du Département de la Vienne et du Crédit Agricole de la Touraine et du Poitou.*
