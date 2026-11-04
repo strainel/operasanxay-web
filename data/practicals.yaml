@@ -13,11 +13,9 @@ coming:
           Une belle occasion d'échanger sur l'opéra et le festival de Sanxay.
     - name : Par covoiturage
       content : Pensez développement durable, utilisez ou proposez du covoiturage à d’autres festivaliers ! 
-          Une belle occasion d’échanger sur l’opéra et le festival de Sanxay. Jetez un oeil sur la carte de
-          [covoiturage simple](https://covoiturage-simple.com/sanxay/evenements?period=upcoming) proposé
-          par notre partenaire institutionnel du Grand Poitiers.
-          <!-- Vous pouvez aussi tenter votre chance sur les sites [blablacar](https://blablacar.fr) ou 
-          [carpooling](https://www.europe-carpooling.com). -->
+          Vous pouvez consulter les sites [blablacar](https://blablacar.fr) ou 
+          [carpooling](https://www.europe-carpooling.com).
+          Une belle occasion d’échanger sur l’opéra et le festival de Sanxay.
     - name : Par train
       content : Plusieurs gares sont proches de Sanxay. La gare de **Poitiers** est à 30 minutes 
           de Sanxay, celle de **Saint-Maixent-l'école** à 25 minutes, celle de **Lusignan** à 15 minutes.
@@ -26,7 +24,7 @@ coming:
           Le départ se fait à la gare routière à 18h45. Un arrêt sera marqué à **Vouneuil-Nougeraie**, à 18h50.
           La navette est payante sauf le samedi. Si achat du billet dans le bus, 
           le tarif est de 2,10 € par trajet, soit 4,20 € pour un aller-retour.
-          **[Réservation en ligne](https://my.weezevent.com/PMR-NAVETTE-2026) obligatoire dans tous les cas** 
+          **[Réservation en ligne](https://my.weezevent.com/la-traviata-pmrnavette-aout-2027) obligatoire dans tous les cas** 
   mapTitle    : La carte
   mapSubtitle : >
     Si vous êtes de passage dans la Vienne, vous pouvez venir nous rencontrer dans le local de l'association à SANXAY
@@ -58,8 +56,8 @@ pricing:
   description: "Le site en ligne permet de choisir et d'acheter les places numérotées (PN) ou en placement libre (PL), dont
                 les prix sont indiqués ci-dessous."
   details: "La catégorie 7 est hors plan derrière la catégorie 4. <br/> Tarif réduit 
-            pour les groupes de plus de 20 personnes ou demandeur d'emploi (sur justificatif).
-            <br/>Tarif jeune pour les moins de 25 ans (sur justificatif)"
+            pour les groupes de plus de 20 personnes, comité d'entreprise ou demandeur d'emploi (sur justificatif).
+            <br/>Tarif jeune pour les moins de 28 ans (sur justificatif)"
   link: "https://my.weezevent.com/la-flute-enchantee-aout-2026"
   pricing_item:
     # pricing table loop

@@ -19,9 +19,9 @@ banner:
     label : "Découvrir"
     link : "portfolio/2027_traviata/"
   button2:
-    enable : false
+    enable : true
     label : "Acheter maintenant"
-    link : "https://my.weezevent.com/la-flute-enchantee-aout-2026"
+    link : "https://my.weezevent.com/la-traviata-aout-2027"
 
 ################### Service #################################
 service:
